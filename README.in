@@ -1,0 +1,11 @@
+# =IMAGE=
+
+![Pulls](https://img.shields.io/docker/pulls/=NAMESPACE=/=IMAGE=.svg)
+![Stars](https://img.shields.io/docker/stars/=NAMESPACE=/=IMAGE=.svg)
+
+The [Debian](https://debian.org/) [Buster](https://wiki.debian.org/DebianBuster)
+[container image](https://hub.docker.com/r/=NAMESPACE=/=IMAGE=/) for use as
+drone.io builder container.
+
+# Packages
+

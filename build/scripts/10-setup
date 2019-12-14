@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+set -e
+set -u
+set -x
+export DEBIAN_FRONTEND=noninteractive
+
+git config --global user.email "root@localhost"
+git config --global user.name "root"
+
+## packages sorted alphabeticaly
+##
+packages=""
+packages="${packages} apt-transport-https"
+packages="${packages} gnupg"
+packages="${packages} jq"
+packages="${packages} lsb-release"
+packages="${packages} sudo"
+packages="${packages} wget"
+
+## install packages
+##
+apt-get install -y --no-install-recommends --auto-remove --purge ${packages}
+
+## install new sources, keys and packages
+##
+packages="https://download.docker.com/linux/debian/"
+echo "deb $packages $(lsb_release -cs) stable" > /etc/apt/sources.list.d/docker.list
+wget -q -O - https://download.docker.com/linux/debian/gpg | apt-key add -
+
+apt-get update -y
+apt-get install -y --no-install-recommends docker-ce
