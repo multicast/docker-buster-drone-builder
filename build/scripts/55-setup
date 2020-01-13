@@ -32,14 +32,19 @@ apt-get update -y
 apt-get install -y --no-install-recommends docker-ce
 
 apt-get install -y \
+
+apt install -y --no-install-recommends \
  build-essential \
- python3-sphinx-rtd-theme \
+ latexmk \
+ make \
+ ps2eps \
  python3-sphinx \
+ python3-sphinx-rtd-theme \
+ texlive \
  texlive-font-utils \
  texlive-fonts-extra \
- texlive-fonts-recommended \
  texlive-generic-recommended \
  texlive-lang-english \
-
+ texlive-latex-extra \
 
 echo done
