@@ -18,7 +18,7 @@ drone.io builder container.
     ii  apt                           1.8.2.1                      amd64        commandline package manager
     ii  apt-transport-https           1.8.2.1                      all          transitional package for https support
     ii  apt-utils                     1.8.2.1                      amd64        package management related utility programs
-    ii  base-files                    10.3+deb10u4                 amd64        Debian base system miscellaneous files
+    ii  base-files                    10.3+deb10u5                 amd64        Debian base system miscellaneous files
     ii  base-passwd                   3.5.46                       amd64        Debian base system master password and group files
     ii  bash                          5.0-4                        amd64        GNU Bourne Again SHell
     ii  binutils                      2.31.1-16                    amd64        GNU assembler, linker and binary utilities
@@ -119,7 +119,7 @@ drone.io builder container.
     ii  libcurl3-gnutls:amd64         7.64.0-4+deb10u1             amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
     ii  libcurl4:amd64                7.64.0-4+deb10u1             amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
     ii  libdb5.3:amd64                5.3.28+dfsg1-0.5             amd64        Berkeley v5.3 Database Libraries [runtime]
-    ii  libdbus-1-3:amd64             1.12.16-1                    amd64        simple interprocess messaging system (library)
+    ii  libdbus-1-3:amd64             1.12.20-0+deb10u1            amd64        simple interprocess messaging system (library)
     ii  libdebconfclient0:amd64       0.249                        amd64        Debian Configuration Management System (C-implementation library)
     ii  libdevmapper1.02.1:amd64      2:1.02.155-3                 amd64        Linux Kernel Device Mapper userspace library
     ii  libdpkg-perl                  1.19.7                       all          Dpkg perl modules
@@ -139,7 +139,7 @@ drone.io builder container.
     ii  libgdbm6:amd64                1.18.1-4                     amd64        GNU dbm database routines (runtime version) 
     ii  libglib2.0-0:amd64            2.58.3-2+deb10u2             amd64        GLib library of C routines
     ii  libgmp10:amd64                2:6.1.2+dfsg-4               amd64        Multiprecision arithmetic library
-    ii  libgnutls30:amd64             3.6.7-4+deb10u4              amd64        GNU TLS library - main runtime library
+    ii  libgnutls30:amd64             3.6.7-4+deb10u5              amd64        GNU TLS library - main runtime library
     ii  libgomp1:amd64                8.3.0-6                      amd64        GCC OpenMP (GOMP) support library
     ii  libgpg-error0:amd64           1.35-1                       amd64        GnuPG development runtime library
     ii  libgraphite2-3:amd64          1.3.13-7                     amd64        Font rendering engine for Complex Scripts -- library
@@ -205,7 +205,7 @@ drone.io builder container.
     ii  libpaper1:amd64               1.1.28                       amd64        library for handling paper characteristics
     ii  libpcre2-8-0:amd64            10.32-5                      amd64        New Perl Compatible Regular Expression Library- 8 bit runtime files
     ii  libpcre3:amd64                2:8.39-12                    amd64        Old Perl 5 Compatible Regular Expression Library - runtime files
-    ii  libperl5.28:amd64             5.28.1-6                     amd64        shared Perl library
+    ii  libperl5.28:amd64             5.28.1-6+deb10u1             amd64        shared Perl library
     ii  libpixman-1-0:amd64           0.36.0-1                     amd64        pixel-manipulation library for X and cairo
     ii  libpng16-16:amd64             1.6.36-6                     amd64        PNG library - runtime (version 1.6)
     ii  libpopt0:amd64                1.16-12                      amd64        lib for parsing cmdline parameters
@@ -218,8 +218,8 @@ drone.io builder container.
     ii  libpython2.7-minimal:amd64    2.7.16-2+deb10u1             amd64        Minimal subset of the Python language (version 2.7)
     ii  libpython2.7-stdlib:amd64     2.7.16-2+deb10u1             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
     ii  libpython3-stdlib:amd64       3.7.3-1                      amd64        interactive high-level object-oriented language (default python3 version)
-    ii  libpython3.7-minimal:amd64    3.7.3-2+deb10u1              amd64        Minimal subset of the Python language (version 3.7)
-    ii  libpython3.7-stdlib:amd64     3.7.3-2+deb10u1              amd64        Interactive high-level object-oriented language (standard library, version 3.7)
+    ii  libpython3.7-minimal:amd64    3.7.3-2+deb10u2              amd64        Minimal subset of the Python language (version 3.7)
+    ii  libpython3.7-stdlib:amd64     3.7.3-2+deb10u2              amd64        Interactive high-level object-oriented language (standard library, version 3.7)
     ii  libquadmath0:amd64            8.3.0-6                      amd64        GCC Quad-Precision Math Library
     ii  libreadline7:amd64            7.0-5                        amd64        GNU readline and history libraries, run-time libraries
     ii  librtmp1:amd64                2.4+20151223.gitfa8646d.1-2  amd64        toolkit for RTMP streams (shared library)
@@ -273,7 +273,7 @@ drone.io builder container.
     ii  libxxhash0:amd64              0.6.5-2                      amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3                 amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2                  amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.118-2+deb10u1           amd64        Linux support headers for userspace development
+    ii  linux-libc-dev:amd64          4.19.132-1                   amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                      all          reclaim disk space by removing unneeded localizations
     ii  locales                       2.28-10                      all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                    amd64        system login tools
@@ -290,9 +290,9 @@ drone.io builder container.
     ii  openssl                       1.1.1d-0+deb10u3             amd64        Secure Sockets Layer toolkit - cryptographic utility
     ii  passwd                        1:4.5-1.1                    amd64        change and administer password and group data
     ii  patch                         2.7.6-3+deb10u1              amd64        Apply a diff file to an original
-    ii  perl                          5.28.1-6                     amd64        Larry Wall's Practical Extraction and Report Language
-    ii  perl-base                     5.28.1-6                     amd64        minimal Perl system
-    ii  perl-modules-5.28             5.28.1-6                     all          Core Perl modules
+    ii  perl                          5.28.1-6+deb10u1             amd64        Larry Wall's Practical Extraction and Report Language
+    ii  perl-base                     5.28.1-6+deb10u1             amd64        minimal Perl system
+    ii  perl-modules-5.28             5.28.1-6+deb10u1             all          Core Perl modules
     ii  pinentry-curses               1.1.0-2                      amd64        curses-based PIN or pass-phrase entry dialog for GnuPG
     ii  poppler-data                  0.4.9-2                      all          encoding data for the poppler PDF rendering library
     ii  preview-latex-style           11.91-2                      all          extraction of elements from LaTeX documents as graphics
@@ -330,8 +330,8 @@ drone.io builder container.
     ii  python3-sphinx-rtd-theme      0.4.3+dfsg-1                 all          sphinx theme from readthedocs.org (Python 3)
     ii  python3-tz                    2019.1-1                     all          Python3 version of the Olson timezone database
     ii  python3-urllib3               1.24.1-1                     all          HTTP library with thread-safe connection pooling for Python3
-    ii  python3.7                     3.7.3-2+deb10u1              amd64        Interactive high-level object-oriented language (version 3.7)
-    ii  python3.7-minimal             3.7.3-2+deb10u1              amd64        Minimal subset of the Python language (version 3.7)
+    ii  python3.7                     3.7.3-2+deb10u2              amd64        Interactive high-level object-oriented language (version 3.7)
+    ii  python3.7-minimal             3.7.3-2+deb10u2              amd64        Minimal subset of the Python language (version 3.7)
     ii  readline-common               7.0-5                        all          GNU readline and history libraries, common files
     ii  sed                           4.7-1                        amd64        GNU stream editor for filtering/transforming text
     ii  sensible-utils                0.0.12                       all          Utilities for sensible alternative selection
