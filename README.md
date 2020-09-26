@@ -18,7 +18,7 @@ drone.io builder container.
     ii  apt                           1.8.2.1                      amd64        commandline package manager
     ii  apt-transport-https           1.8.2.1                      all          transitional package for https support
     ii  apt-utils                     1.8.2.1                      amd64        package management related utility programs
-    ii  base-files                    10.3+deb10u5                 amd64        Debian base system miscellaneous files
+    ii  base-files                    10.3+deb10u6                 amd64        Debian base system miscellaneous files
     ii  base-passwd                   3.5.46                       amd64        Debian base system master password and group files
     ii  bash                          5.0-4                        amd64        GNU Bourne Again SHell
     ii  binutils                      2.31.1-16                    amd64        GNU assembler, linker and binary utilities
@@ -255,8 +255,8 @@ drone.io builder container.
     ii  libuuid1:amd64                2.33.1-0.1                   amd64        Universally Unique ID library
     ii  libwebp6:amd64                0.6.1-2                      amd64        Lossy compression of digital photographic images.
     ii  libwoff1:amd64                1.0.2-1                      amd64        library for converting fonts to WOFF 2.0
-    ii  libx11-6:amd64                2:1.6.7-1                    amd64        X11 client-side library
-    ii  libx11-data                   2:1.6.7-1                    all          X11 client-side library
+    ii  libx11-6:amd64                2:1.6.7-1+deb10u1            amd64        X11 client-side library
+    ii  libx11-data                   2:1.6.7-1+deb10u1            all          X11 client-side library
     ii  libxau6:amd64                 1:1.0.8-1+b2                 amd64        X11 authorisation library
     ii  libxaw7:amd64                 2:1.0.13-1+b2                amd64        X11 Athena Widget library
     ii  libxcb-render0:amd64          1.13.1-2                     amd64        X C Binding, render extension
@@ -273,7 +273,7 @@ drone.io builder container.
     ii  libxxhash0:amd64              0.6.5-2                      amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3                 amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2                  amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.132-1                   amd64        Linux support headers for userspace development
+    ii  linux-libc-dev:amd64          4.19.146-1                   amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                      all          reclaim disk space by removing unneeded localizations
     ii  locales                       2.28-10                      all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                    amd64        system login tools
