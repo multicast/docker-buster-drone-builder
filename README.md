@@ -131,7 +131,7 @@ drone.io builder container.
     ii  libfdisk1:amd64               2.33.1-0.1                   amd64        fdisk partitioning library
     ii  libffi6:amd64                 3.2.1-9                      amd64        Foreign Function Interface library runtime
     ii  libfontconfig1:amd64          2.13.1-2                     amd64        generic font configuration library - runtime
-    ii  libfreetype6:amd64            2.9.1-3+deb10u1              amd64        FreeType 2 font engine, shared library files
+    ii  libfreetype6:amd64            2.9.1-3+deb10u2              amd64        FreeType 2 font engine, shared library files
     ii  libgcc-8-dev:amd64            8.3.0-6                      amd64        GCC support library (development files)
     ii  libgcc1:amd64                 1:8.3.0-6                    amd64        GCC support library
     ii  libgcrypt20:amd64             1.8.4-5                      amd64        LGPL Crypto library - runtime library
