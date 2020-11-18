@@ -174,8 +174,8 @@ drone.io builder container.
     ii  libkrb5support0:amd64         1.17-3                       amd64        MIT Kerberos runtime libraries - Support library
     ii  libksba8:amd64                1.3.5-2                      amd64        X.509 and CMS support library
     ii  liblcms2-2:amd64              2.9-3                        amd64        Little CMS 2 color management library
-    ii  libldap-2.4-2:amd64           2.4.47+dfsg-3+deb10u3        amd64        OpenLDAP libraries
-    ii  libldap-common                2.4.47+dfsg-3+deb10u3        all          OpenLDAP common files for libraries
+    ii  libldap-2.4-2:amd64           2.4.47+dfsg-3+deb10u4        amd64        OpenLDAP libraries
+    ii  libldap-common                2.4.47+dfsg-3+deb10u4        all          OpenLDAP common files for libraries
     ii  liblsan0:amd64                8.3.0-6                      amd64        LeakSanitizer -- a memory leak detector (runtime)
     ii  liblz4-1:amd64                1.8.3-1                      amd64        Fast LZ compression algorithm library - runtime
     ii  liblzma5:amd64                5.2.4-1                      amd64        XZ-format compression library
