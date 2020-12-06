@@ -18,7 +18,7 @@ drone.io builder container.
     ii  apt                           1.8.2.1                      amd64        commandline package manager
     ii  apt-transport-https           1.8.2.1                      all          transitional package for https support
     ii  apt-utils                     1.8.2.1                      amd64        package management related utility programs
-    ii  base-files                    10.3+deb10u6                 amd64        Debian base system miscellaneous files
+    ii  base-files                    10.3+deb10u7                 amd64        Debian base system miscellaneous files
     ii  base-passwd                   3.5.46                       amd64        Debian base system master password and group files
     ii  bash                          5.0-4                        amd64        GNU Bourne Again SHell
     ii  binutils                      2.31.1-16                    amd64        GNU assembler, linker and binary utilities
@@ -40,7 +40,7 @@ drone.io builder container.
     ii  di                            4.47-1                       amd64        advanced df like disk information utility
     ii  diffutils                     1:3.7-3                      amd64        File comparison utilities
     ii  dirmngr                       2.2.12-1+deb10u1             amd64        GNU privacy guard - network certificate management service
-    ii  distro-info-data              0.41+deb10u2                 all          information about the distributions' releases (data files)
+    ii  distro-info-data              0.41+deb10u3                 all          information about the distributions' releases (data files)
     ii  dmsetup                       2:1.02.155-3                 amd64        Linux Kernel Device Mapper userspace library
     ii  docker-ce                     5:19.03.14~3-0~debian-buster amd64        Docker: the open-source application container engine
     ii  docker-ce-cli                 5:19.03.14~3-0~debian-buster amd64        Docker CLI: the open-source application container engine
@@ -114,8 +114,8 @@ drone.io builder container.
     ii  libcap2-bin                   1:2.25-2                     amd64        POSIX 1003.1e capabilities (utilities)
     ii  libcc1-0:amd64                8.3.0-6                      amd64        GCC cc1 plugin for GDB
     ii  libcom-err2:amd64             1.44.5-1+deb10u3             amd64        common error description library
-    ii  libcups2:amd64                2.2.10-6+deb10u3             amd64        Common UNIX Printing System(tm) - Core library
-    ii  libcupsimage2:amd64           2.2.10-6+deb10u3             amd64        Common UNIX Printing System(tm) - Raster image library
+    ii  libcups2:amd64                2.2.10-6+deb10u4             amd64        Common UNIX Printing System(tm) - Core library
+    ii  libcupsimage2:amd64           2.2.10-6+deb10u4             amd64        Common UNIX Printing System(tm) - Raster image library
     ii  libcurl3-gnutls:amd64         7.64.0-4+deb10u1             amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
     ii  libcurl4:amd64                7.64.0-4+deb10u1             amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
     ii  libdb5.3:amd64                5.3.28+dfsg1-0.5             amd64        Berkeley v5.3 Database Libraries [runtime]
@@ -161,7 +161,7 @@ drone.io builder container.
     ii  libitm1:amd64                 8.3.0-6                      amd64        GNU Transactional Memory Library
     ii  libjbig0:amd64                2.1-3.1+b2                   amd64        JBIGkit libraries
     ii  libjbig2dec0:amd64            0.16-1                       amd64        JBIG2 decoder library - shared libraries
-    ii  libjpeg62-turbo:amd64         1:1.5.2-2+b1                 amd64        libjpeg-turbo JPEG runtime library
+    ii  libjpeg62-turbo:amd64         1:1.5.2-2+deb10u1            amd64        libjpeg-turbo JPEG runtime library
     ii  libjq1:amd64                  1.5+dfsg-2+b1                amd64        lightweight and flexible command-line JSON processor - shared library
     ii  libjs-jquery                  3.3.1~dfsg-3                 all          JavaScript library for dynamic web applications
     ii  libjs-modernizr               2.6.2+ds1-3                  all          JavaScript library to detect HTML5 and CSS3 features in the user's browser
@@ -233,14 +233,14 @@ drone.io builder container.
     ii  libslang2:amd64               2.3.2-2                      amd64        S-Lang programming library - runtime version
     ii  libsm6:amd64                  2:1.2.3-1                    amd64        X11 Session Management library
     ii  libsmartcols1:amd64           2.33.1-0.1                   amd64        smart column output alignment library
-    ii  libsqlite3-0:amd64            3.27.2-3                     amd64        SQLite 3 shared library
+    ii  libsqlite3-0:amd64            3.27.2-3+deb10u1             amd64        SQLite 3 shared library
     ii  libss2:amd64                  1.44.5-1+deb10u3             amd64        command-line interface parsing library
     ii  libssh2-1:amd64               1.8.0-2.1                    amd64        SSH2 client-side library
     ii  libssl1.1:amd64               1.1.1d-0+deb10u3             amd64        Secure Sockets Layer toolkit - shared libraries
     ii  libstdc++-8-dev:amd64         8.3.0-6                      amd64        GNU Standard C++ Library v3 (development files)
     ii  libstdc++6:amd64              8.3.0-6                      amd64        GNU Standard C++ Library v3
     ii  libsynctex2:amd64             2018.20181218.49446-1        amd64        TeX Live: SyncTeX parser library
-    ii  libsystemd0:amd64             241-7~deb10u4                amd64        systemd utility library
+    ii  libsystemd0:amd64             241-7~deb10u5                amd64        systemd utility library
     ii  libtasn1-6:amd64              4.13-3                       amd64        Manage ASN.1 structures (runtime)
     ii  libteckit0:amd64              2.5.8+ds2-5                  amd64        Encoding conversion library
     ii  libtexlua52:amd64             2018.20181218.49446-1        amd64        TeX Live: Lua 5.2, modified for use with LuaTeX
@@ -250,7 +250,7 @@ drone.io builder container.
     ii  libtinfo6:amd64               6.1+20181013-2+deb10u2       amd64        shared low-level terminfo library for terminal handling
     ii  libtsan0:amd64                8.3.0-6                      amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
     ii  libubsan1:amd64               8.3.0-6                      amd64        UBSan -- undefined behaviour sanitizer (runtime)
-    ii  libudev1:amd64                241-7~deb10u4                amd64        libudev shared library
+    ii  libudev1:amd64                241-7~deb10u5                amd64        libudev shared library
     ii  libunistring2:amd64           0.9.10-1                     amd64        Unicode string library for C
     ii  libuuid1:amd64                2.33.1-0.1                   amd64        Universally Unique ID library
     ii  libwebp6:amd64                0.6.1-2                      amd64        Lossy compression of digital photographic images.
@@ -273,7 +273,7 @@ drone.io builder container.
     ii  libxxhash0:amd64              0.6.5-2                      amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3                 amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2                  amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.152-1                   amd64        Linux support headers for userspace development
+    ii  linux-libc-dev:amd64          4.19.160-2                   amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                      all          reclaim disk space by removing unneeded localizations
     ii  locales                       2.28-10                      all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                    amd64        system login tools
