@@ -196,7 +196,7 @@ drone.io builder container.
     ii  libnpth0:amd64                1.6-1                       amd64        replacement for GNU Pth using system threads
     ii  libonig5:amd64                6.9.1-1                     amd64        regular expressions library
     ii  libopenjp2-7:amd64            2.3.0-2+deb10u1             amd64        JPEG 2000 image compression/decompression library
-    ii  libp11-kit0:amd64             0.23.15-2                   amd64        library for loading and coordinating access to PKCS#11 modules - runtime
+    ii  libp11-kit0:amd64             0.23.15-2+deb10u1           amd64        library for loading and coordinating access to PKCS#11 modules - runtime
     ii  libpam-modules:amd64          1.3.1-5                     amd64        Pluggable Authentication Modules for PAM
     ii  libpam-modules-bin            1.3.1-5                     amd64        Pluggable Authentication Modules for PAM - helper binaries
     ii  libpam-runtime                1.3.1-5                     all          Runtime support for the PAM library
