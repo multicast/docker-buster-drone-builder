@@ -18,7 +18,7 @@ drone.io builder container.
     ii  apt                           1.8.2.2                     amd64        commandline package manager
     ii  apt-transport-https           1.8.2.2                     all          transitional package for https support
     ii  apt-utils                     1.8.2.2                     amd64        package management related utility programs
-    ii  base-files                    10.3+deb10u7                amd64        Debian base system miscellaneous files
+    ii  base-files                    10.3+deb10u8                amd64        Debian base system miscellaneous files
     ii  base-passwd                   3.5.46                      amd64        Debian base system master password and group files
     ii  bash                          5.0-4                       amd64        GNU Bourne Again SHell
     ii  binutils                      2.31.1-16                   amd64        GNU assembler, linker and binary utilities
@@ -79,7 +79,7 @@ drone.io builder container.
     ii  gzip                          1.9-3                       amd64        GNU compression utilities
     ii  hostname                      3.21                        amd64        utility to set/show the host name or domain name
     ii  init-system-helpers           1.56+nmu1                   all          helper tools for all init systems
-    ii  iproute2                      4.20.0-2                    amd64        networking and traffic control tools
+    ii  iproute2                      4.20.0-2+deb10u1            amd64        networking and traffic control tools
     ii  iptables                      1.8.2-4                     amd64        administration tools for packet filtering and NAT
     ii  iputils-ping                  3:20180629-2+deb10u1        amd64        Tools to test the reachability of network hosts
     ii  joe                           4.6-1+b1                    amd64        user friendly full screen text editor
@@ -108,7 +108,7 @@ drone.io builder container.
     ii  libc-l10n                     2.28-10                     all          GNU C Library: localization files
     ii  libc6:amd64                   2.28-10                     amd64        GNU C Library: Shared libraries
     ii  libc6-dev:amd64               2.28-10                     amd64        GNU C Library: Development Libraries and Header Files
-    ii  libcairo2:amd64               1.16.0-4                    amd64        Cairo 2D vector graphics library
+    ii  libcairo2:amd64               1.16.0-4+deb10u1            amd64        Cairo 2D vector graphics library
     ii  libcap-ng0:amd64              0.7.9-2                     amd64        An alternate POSIX capabilities library
     ii  libcap2:amd64                 1:2.25-2                    amd64        POSIX 1003.1e capabilities (library)
     ii  libcap2-bin                   1:2.25-2                    amd64        POSIX 1003.1e capabilities (utilities)
@@ -139,7 +139,7 @@ drone.io builder container.
     ii  libgdbm6:amd64                1.18.1-4                    amd64        GNU dbm database routines (runtime version) 
     ii  libglib2.0-0:amd64            2.58.3-2+deb10u2            amd64        GLib library of C routines
     ii  libgmp10:amd64                2:6.1.2+dfsg-4              amd64        Multiprecision arithmetic library
-    ii  libgnutls30:amd64             3.6.7-4+deb10u5             amd64        GNU TLS library - main runtime library
+    ii  libgnutls30:amd64             3.6.7-4+deb10u6             amd64        GNU TLS library - main runtime library
     ii  libgomp1:amd64                8.3.0-6                     amd64        GCC OpenMP (GOMP) support library
     ii  libgpg-error0:amd64           1.35-1                      amd64        GnuPG development runtime library
     ii  libgraphite2-3:amd64          1.3.13-7                    amd64        Font rendering engine for Complex Scripts -- library
@@ -240,7 +240,7 @@ drone.io builder container.
     ii  libstdc++-8-dev:amd64         8.3.0-6                     amd64        GNU Standard C++ Library v3 (development files)
     ii  libstdc++6:amd64              8.3.0-6                     amd64        GNU Standard C++ Library v3
     ii  libsynctex2:amd64             2018.20181218.49446-1       amd64        TeX Live: SyncTeX parser library
-    ii  libsystemd0:amd64             241-7~deb10u5               amd64        systemd utility library
+    ii  libsystemd0:amd64             241-7~deb10u6               amd64        systemd utility library
     ii  libtasn1-6:amd64              4.13-3                      amd64        Manage ASN.1 structures (runtime)
     ii  libteckit0:amd64              2.5.8+ds2-5                 amd64        Encoding conversion library
     ii  libtexlua52:amd64             2018.20181218.49446-1       amd64        TeX Live: Lua 5.2, modified for use with LuaTeX
@@ -250,7 +250,7 @@ drone.io builder container.
     ii  libtinfo6:amd64               6.1+20181013-2+deb10u2      amd64        shared low-level terminfo library for terminal handling
     ii  libtsan0:amd64                8.3.0-6                     amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
     ii  libubsan1:amd64               8.3.0-6                     amd64        UBSan -- undefined behaviour sanitizer (runtime)
-    ii  libudev1:amd64                241-7~deb10u5               amd64        libudev shared library
+    ii  libudev1:amd64                241-7~deb10u6               amd64        libudev shared library
     ii  libunistring2:amd64           0.9.10-1                    amd64        Unicode string library for C
     ii  libuuid1:amd64                2.33.1-0.1                  amd64        Universally Unique ID library
     ii  libwebp6:amd64                0.6.1-2                     amd64        Lossy compression of digital photographic images.
@@ -358,7 +358,7 @@ drone.io builder container.
     ii  texlive-plain-generic         2018.20190227-2             all          TeX Live: Plain (La)TeX packages
     ii  tzdata                        2021a-0+deb10u1             all          time zone and daylight-saving time data
     ii  ucf                           3.0038+nmu1                 all          Update Configuration File(s): preserve user changes to config files
-    ii  unzip                         6.0-23+deb10u1              amd64        De-archiver for .zip files
+    ii  unzip                         6.0-23+deb10u2              amd64        De-archiver for .zip files
     ii  util-linux                    2.33.1-0.1                  amd64        miscellaneous system utilities
     ii  wget                          1.20.1-1.1                  amd64        retrieves files from the web
     ii  whiptail                      0.52.20-8                   amd64        Displays user-friendly dialog boxes from shell scripts
