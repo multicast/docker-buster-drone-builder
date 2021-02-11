@@ -271,7 +271,7 @@ drone.io builder container.
     ii  libxt6:amd64                  1:1.1.5-1+b3                amd64        X11 toolkit intrinsics library
     ii  libxtables12:amd64            1.8.2-4                     amd64        netfilter xtables library
     ii  libxxhash0:amd64              0.6.5-2                     amd64        shared library for xxhash
-    ii  libzstd1:amd64                1.3.8+dfsg-3                amd64        fast lossless compression algorithm
+    ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u1        amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2                 amd64        library providing read access on ZIP-archives - library
     ii  linux-libc-dev:amd64          4.19.171-2                  amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                     all          reclaim disk space by removing unneeded localizations
