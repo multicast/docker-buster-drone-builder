@@ -174,8 +174,8 @@ drone.io builder container.
     ii  libkrb5support0:amd64         1.17-3+deb10u1              amd64        MIT Kerberos runtime libraries - Support library
     ii  libksba8:amd64                1.3.5-2                     amd64        X.509 and CMS support library
     ii  liblcms2-2:amd64              2.9-3                       amd64        Little CMS 2 color management library
-    ii  libldap-2.4-2:amd64           2.4.47+dfsg-3+deb10u5       amd64        OpenLDAP libraries
-    ii  libldap-common                2.4.47+dfsg-3+deb10u5       all          OpenLDAP common files for libraries
+    ii  libldap-2.4-2:amd64           2.4.47+dfsg-3+deb10u6       amd64        OpenLDAP libraries
+    ii  libldap-common                2.4.47+dfsg-3+deb10u6       all          OpenLDAP common files for libraries
     ii  liblsan0:amd64                8.3.0-6                     amd64        LeakSanitizer -- a memory leak detector (runtime)
     ii  liblz4-1:amd64                1.8.3-1                     amd64        Fast LZ compression algorithm library - runtime
     ii  liblzma5:amd64                5.2.4-1                     amd64        XZ-format compression library
@@ -271,7 +271,7 @@ drone.io builder container.
     ii  libxt6:amd64                  1:1.1.5-1+b3                amd64        X11 toolkit intrinsics library
     ii  libxtables12:amd64            1.8.2-4                     amd64        netfilter xtables library
     ii  libxxhash0:amd64              0.6.5-2                     amd64        shared library for xxhash
-    ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u1        amd64        fast lossless compression algorithm
+    ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u2        amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2                 amd64        library providing read access on ZIP-archives - library
     ii  linux-libc-dev:amd64          4.19.171-2                  amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                     all          reclaim disk space by removing unneeded localizations
