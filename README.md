@@ -246,7 +246,7 @@ drone.io builder container.
     ii  libtexlua52:amd64             2018.20181218.49446-1       amd64        TeX Live: Lua 5.2, modified for use with LuaTeX
     ii  libtexlua53:amd64             2018.20181218.49446-1       amd64        TeX Live: Lua 5.3, modified for use with LuaTeX
     ii  libtexluajit2:amd64           2018.20181218.49446-1       amd64        TeX Live: LuaJIT, modified for use with LuaJITTeX
-    ii  libtiff5:amd64                4.1.0+git191117-2~deb10u1   amd64        Tag Image File Format (TIFF) library
+    ii  libtiff5:amd64                4.1.0+git191117-2~deb10u2   amd64        Tag Image File Format (TIFF) library
     ii  libtinfo6:amd64               6.1+20181013-2+deb10u2      amd64        shared low-level terminfo library for terminal handling
     ii  libtsan0:amd64                8.3.0-6                     amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
     ii  libubsan1:amd64               8.3.0-6                     amd64        UBSan -- undefined behaviour sanitizer (runtime)
@@ -321,7 +321,7 @@ drone.io builder container.
     ii  python3-minimal               3.7.3-1                     amd64        minimal subset of the Python language (default python3 version)
     ii  python3-packaging             19.0-1                      all          core utilities for python3 packages
     ii  python3-pkg-resources         40.8.0-1                    all          Package Discovery and Resource Access using pkg_resources
-    ii  python3-pygments              2.3.1+dfsg-1                all          syntax highlighting package written in Python 3
+    ii  python3-pygments              2.3.1+dfsg-1+deb10u1        all          syntax highlighting package written in Python 3
     ii  python3-pyparsing             2.2.0+dfsg1-2               all          alternative to creating and executing simple grammars - Python 3.x
     ii  python3-requests              2.21.0-1                    all          elegant and simple HTTP library for Python3, built for human beings
     ii  python3-roman                 2.0.0-3                     all          module for generating/analyzing Roman numerals for Python 3
