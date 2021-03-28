@@ -18,7 +18,7 @@ drone.io builder container.
     ii  apt                           1.8.2.2                     amd64        commandline package manager
     ii  apt-transport-https           1.8.2.2                     all          transitional package for https support
     ii  apt-utils                     1.8.2.2                     amd64        package management related utility programs
-    ii  base-files                    10.3+deb10u8                amd64        Debian base system miscellaneous files
+    ii  base-files                    10.3+deb10u9                amd64        Debian base system miscellaneous files
     ii  base-passwd                   3.5.46                      amd64        Debian base system master password and group files
     ii  bash                          5.0-4                       amd64        GNU Bourne Again SHell
     ii  binutils                      2.31.1-16                   amd64        GNU assembler, linker and binary utilities
@@ -35,7 +35,7 @@ drone.io builder container.
     ii  curl                          7.64.0-4+deb10u1            amd64        command line tool for transferring data with URL syntax
     ii  dash                          0.5.10.2-5                  amd64        POSIX-compliant shell
     ii  debconf                       1.5.71                      all          Debian configuration management system
-    ii  debian-archive-keyring        2019.1                      all          GnuPG archive keys of the Debian archive
+    ii  debian-archive-keyring        2019.1+deb10u1              all          GnuPG archive keys of the Debian archive
     ii  debianutils                   4.8.6.1                     amd64        Miscellaneous utilities specific to Debian
     ii  di                            4.47-1                      amd64        advanced df like disk information utility
     ii  diffutils                     1:3.7-3                     amd64        File comparison utilities
@@ -81,7 +81,7 @@ drone.io builder container.
     ii  init-system-helpers           1.56+nmu1                   all          helper tools for all init systems
     ii  iproute2                      4.20.0-2+deb10u1            amd64        networking and traffic control tools
     ii  iptables                      1.8.2-4                     amd64        administration tools for packet filtering and NAT
-    ii  iputils-ping                  3:20180629-2+deb10u1        amd64        Tools to test the reachability of network hosts
+    ii  iputils-ping                  3:20180629-2+deb10u2        amd64        Tools to test the reachability of network hosts
     ii  joe                           4.6-1+b1                    amd64        user friendly full screen text editor
     ii  jq                            1.5+dfsg-2+b1               amd64        lightweight and flexible command-line JSON processor
     ii  latexmk                       1:4.61-0.1                  all          Perl script for running LaTeX the correct number of times
@@ -95,13 +95,13 @@ drone.io builder container.
     ii  libattr1:amd64                1:2.4.48-4                  amd64        extended attribute handling - shared library
     ii  libaudit-common               1:2.8.4-3                   all          Dynamic library for security auditing - common files
     ii  libaudit1:amd64               1:2.8.4-3                   amd64        Dynamic library for security auditing
-    ii  libavahi-client3:amd64        0.7-4+b1                    amd64        Avahi client library
-    ii  libavahi-common-data:amd64    0.7-4+b1                    amd64        Avahi common data files
-    ii  libavahi-common3:amd64        0.7-4+b1                    amd64        Avahi common library
+    ii  libavahi-client3:amd64        0.7-4+deb10u1               amd64        Avahi client library
+    ii  libavahi-common-data:amd64    0.7-4+deb10u1               amd64        Avahi common data files
+    ii  libavahi-common3:amd64        0.7-4+deb10u1               amd64        Avahi common library
     ii  libbinutils:amd64             2.31.1-16                   amd64        GNU binary utilities (private shared library)
     ii  libblkid1:amd64               2.33.1-0.1                  amd64        block device ID library
     ii  libbrotli1:amd64              1.0.7-2+deb10u1             amd64        library implementing brotli encoder and decoder (shared libraries)
-    ii  libbsd0:amd64                 0.9.1-2                     amd64        utility functions from BSD systems - shared library
+    ii  libbsd0:amd64                 0.9.1-2+deb10u1             amd64        utility functions from BSD systems - shared library
     ii  libbz2-1.0:amd64              1.0.6-9.2~deb10u1           amd64        high-quality block-sorting file compressor library - runtime
     ii  libc-bin                      2.28-10                     amd64        GNU C Library: Binaries
     ii  libc-dev-bin                  2.28-10                     amd64        GNU C Library: Development binaries
@@ -163,7 +163,7 @@ drone.io builder container.
     ii  libjbig2dec0:amd64            0.16-1                      amd64        JBIG2 decoder library - shared libraries
     ii  libjpeg62-turbo:amd64         1:1.5.2-2+deb10u1           amd64        libjpeg-turbo JPEG runtime library
     ii  libjq1:amd64                  1.5+dfsg-2+b1               amd64        lightweight and flexible command-line JSON processor - shared library
-    ii  libjs-jquery                  3.3.1~dfsg-3                all          JavaScript library for dynamic web applications
+    ii  libjs-jquery                  3.3.1~dfsg-3+deb10u1        all          JavaScript library for dynamic web applications
     ii  libjs-modernizr               2.6.2+ds1-3                 all          JavaScript library to detect HTML5 and CSS3 features in the user's browser
     ii  libjs-sphinxdoc               1.8.4-1                     all          JavaScript support for Sphinx documentation
     ii  libjs-underscore              1.9.1~dfsg-1                all          JavaScript's functional programming helper library
@@ -218,8 +218,8 @@ drone.io builder container.
     ii  libpython2.7-minimal:amd64    2.7.16-2+deb10u1            amd64        Minimal subset of the Python language (version 2.7)
     ii  libpython2.7-stdlib:amd64     2.7.16-2+deb10u1            amd64        Interactive high-level object-oriented language (standard library, version 2.7)
     ii  libpython3-stdlib:amd64       3.7.3-1                     amd64        interactive high-level object-oriented language (default python3 version)
-    ii  libpython3.7-minimal:amd64    3.7.3-2+deb10u2             amd64        Minimal subset of the Python language (version 3.7)
-    ii  libpython3.7-stdlib:amd64     3.7.3-2+deb10u2             amd64        Interactive high-level object-oriented language (standard library, version 3.7)
+    ii  libpython3.7-minimal:amd64    3.7.3-2+deb10u3             amd64        Minimal subset of the Python language (version 3.7)
+    ii  libpython3.7-stdlib:amd64     3.7.3-2+deb10u3             amd64        Interactive high-level object-oriented language (standard library, version 3.7)
     ii  libquadmath0:amd64            8.3.0-6                     amd64        GCC Quad-Precision Math Library
     ii  libreadline7:amd64            7.0-5                       amd64        GNU readline and history libraries, run-time libraries
     ii  librtmp1:amd64                2.4+20151223.gitfa8646d.1-2 amd64        toolkit for RTMP streams (shared library)
@@ -240,7 +240,7 @@ drone.io builder container.
     ii  libstdc++-8-dev:amd64         8.3.0-6                     amd64        GNU Standard C++ Library v3 (development files)
     ii  libstdc++6:amd64              8.3.0-6                     amd64        GNU Standard C++ Library v3
     ii  libsynctex2:amd64             2018.20181218.49446-1       amd64        TeX Live: SyncTeX parser library
-    ii  libsystemd0:amd64             241-7~deb10u6               amd64        systemd utility library
+    ii  libsystemd0:amd64             241-7~deb10u7               amd64        systemd utility library
     ii  libtasn1-6:amd64              4.13-3                      amd64        Manage ASN.1 structures (runtime)
     ii  libteckit0:amd64              2.5.8+ds2-5                 amd64        Encoding conversion library
     ii  libtexlua52:amd64             2018.20181218.49446-1       amd64        TeX Live: Lua 5.2, modified for use with LuaTeX
@@ -250,7 +250,7 @@ drone.io builder container.
     ii  libtinfo6:amd64               6.1+20181013-2+deb10u2      amd64        shared low-level terminfo library for terminal handling
     ii  libtsan0:amd64                8.3.0-6                     amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
     ii  libubsan1:amd64               8.3.0-6                     amd64        UBSan -- undefined behaviour sanitizer (runtime)
-    ii  libudev1:amd64                241-7~deb10u6               amd64        libudev shared library
+    ii  libudev1:amd64                241-7~deb10u7               amd64        libudev shared library
     ii  libunistring2:amd64           0.9.10-1                    amd64        Unicode string library for C
     ii  libuuid1:amd64                2.33.1-0.1                  amd64        Universally Unique ID library
     ii  libwebp6:amd64                0.6.1-2                     amd64        Lossy compression of digital photographic images.
@@ -273,7 +273,7 @@ drone.io builder container.
     ii  libxxhash0:amd64              0.6.5-2                     amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u2        amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2                 amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.171-2                  amd64        Linux support headers for userspace development
+    ii  linux-libc-dev:amd64          4.19.181-1                  amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                     all          reclaim disk space by removing unneeded localizations
     ii  locales                       2.28-10                     all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                   amd64        system login tools
@@ -321,7 +321,7 @@ drone.io builder container.
     ii  python3-minimal               3.7.3-1                     amd64        minimal subset of the Python language (default python3 version)
     ii  python3-packaging             19.0-1                      all          core utilities for python3 packages
     ii  python3-pkg-resources         40.8.0-1                    all          Package Discovery and Resource Access using pkg_resources
-    ii  python3-pygments              2.3.1+dfsg-1+deb10u1        all          syntax highlighting package written in Python 3
+    ii  python3-pygments              2.3.1+dfsg-1+deb10u2        all          syntax highlighting package written in Python 3
     ii  python3-pyparsing             2.2.0+dfsg1-2               all          alternative to creating and executing simple grammars - Python 3.x
     ii  python3-requests              2.21.0-1                    all          elegant and simple HTTP library for Python3, built for human beings
     ii  python3-roman                 2.0.0-3                     all          module for generating/analyzing Roman numerals for Python 3
@@ -330,8 +330,8 @@ drone.io builder container.
     ii  python3-sphinx-rtd-theme      0.4.3+dfsg-1                all          sphinx theme from readthedocs.org (Python 3)
     ii  python3-tz                    2019.1-1                    all          Python3 version of the Olson timezone database
     ii  python3-urllib3               1.24.1-1                    all          HTTP library with thread-safe connection pooling for Python3
-    ii  python3.7                     3.7.3-2+deb10u2             amd64        Interactive high-level object-oriented language (version 3.7)
-    ii  python3.7-minimal             3.7.3-2+deb10u2             amd64        Minimal subset of the Python language (version 3.7)
+    ii  python3.7                     3.7.3-2+deb10u3             amd64        Interactive high-level object-oriented language (version 3.7)
+    ii  python3.7-minimal             3.7.3-2+deb10u3             amd64        Minimal subset of the Python language (version 3.7)
     ii  readline-common               7.0-5                       all          GNU readline and history libraries, common files
     ii  sed                           4.7-1                       amd64        GNU stream editor for filtering/transforming text
     ii  sensible-utils                0.0.12                      all          Utilities for sensible alternative selection
