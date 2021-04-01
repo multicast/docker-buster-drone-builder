@@ -166,7 +166,7 @@ drone.io builder container.
     ii  libjs-jquery                  3.3.1~dfsg-3+deb10u1        all          JavaScript library for dynamic web applications
     ii  libjs-modernizr               2.6.2+ds1-3                 all          JavaScript library to detect HTML5 and CSS3 features in the user's browser
     ii  libjs-sphinxdoc               1.8.4-1                     all          JavaScript support for Sphinx documentation
-    ii  libjs-underscore              1.9.1~dfsg-1                all          JavaScript's functional programming helper library
+    ii  libjs-underscore              1.9.1~dfsg-1+deb10u1        all          JavaScript's functional programming helper library
     ii  libk5crypto3:amd64            1.17-3+deb10u1              amd64        MIT Kerberos runtime libraries - Crypto Library
     ii  libkeyutils1:amd64            1.6-6                       amd64        Linux Key Management Utilities (library)
     ii  libkpathsea6:amd64            2018.20181218.49446-1       amd64        TeX Live: path search library for TeX (runtime part)
@@ -195,7 +195,7 @@ drone.io builder container.
     ii  libnghttp2-14:amd64           1.36.0-2+deb10u1            amd64        library implementing HTTP/2 protocol (shared library)
     ii  libnpth0:amd64                1.6-1                       amd64        replacement for GNU Pth using system threads
     ii  libonig5:amd64                6.9.1-1                     amd64        regular expressions library
-    ii  libopenjp2-7:amd64            2.3.0-2+deb10u1             amd64        JPEG 2000 image compression/decompression library
+    ii  libopenjp2-7:amd64            2.3.0-2+deb10u2             amd64        JPEG 2000 image compression/decompression library
     ii  libp11-kit0:amd64             0.23.15-2+deb10u1           amd64        library for loading and coordinating access to PKCS#11 modules - runtime
     ii  libpam-modules:amd64          1.3.1-5                     amd64        Pluggable Authentication Modules for PAM
     ii  libpam-modules-bin            1.3.1-5                     amd64        Pluggable Authentication Modules for PAM - helper binaries
