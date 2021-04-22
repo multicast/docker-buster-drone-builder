@@ -15,9 +15,9 @@ drone.io builder container.
     ||/ Name                          Version                     Architecture Description
     +++-=============================-===========================-============-===============================================================================
     ii  adduser                       3.118                       all          add and remove users and groups
-    ii  apt                           1.8.2.2                     amd64        commandline package manager
-    ii  apt-transport-https           1.8.2.2                     all          transitional package for https support
-    ii  apt-utils                     1.8.2.2                     amd64        package management related utility programs
+    ii  apt                           1.8.2.3                     amd64        commandline package manager
+    ii  apt-transport-https           1.8.2.3                     all          transitional package for https support
+    ii  apt-utils                     1.8.2.3                     amd64        package management related utility programs
     ii  base-files                    10.3+deb10u9                amd64        Debian base system miscellaneous files
     ii  base-passwd                   3.5.46                      amd64        Debian base system master password and group files
     ii  bash                          5.0-4                       amd64        GNU Bourne Again SHell
@@ -87,8 +87,8 @@ drone.io builder container.
     ii  latexmk                       1:4.61-0.1                  all          Perl script for running LaTeX the correct number of times
     ii  less                          487-0.1+b1                  amd64        pager program similar to more
     ii  libacl1:amd64                 2.2.53-4                    amd64        access control list - shared library
-    ii  libapt-inst2.0:amd64          1.8.2.2                     amd64        deb package format runtime library
-    ii  libapt-pkg5.0:amd64           1.8.2.2                     amd64        package management runtime library
+    ii  libapt-inst2.0:amd64          1.8.2.3                     amd64        deb package format runtime library
+    ii  libapt-pkg5.0:amd64           1.8.2.3                     amd64        package management runtime library
     ii  libasan5:amd64                8.3.0-6                     amd64        AddressSanitizer -- a fast memory error detector
     ii  libassuan0:amd64              2.5.2-1                     amd64        IPC library for the GnuPG components
     ii  libatomic1:amd64              8.3.0-6                     amd64        support library providing __atomic built-in functions
