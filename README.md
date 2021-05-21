@@ -177,7 +177,7 @@ drone.io builder container.
     ii  libldap-2.4-2:amd64           2.4.47+dfsg-3+deb10u6       amd64        OpenLDAP libraries
     ii  libldap-common                2.4.47+dfsg-3+deb10u6       all          OpenLDAP common files for libraries
     ii  liblsan0:amd64                8.3.0-6                     amd64        LeakSanitizer -- a memory leak detector (runtime)
-    ii  liblz4-1:amd64                1.8.3-1                     amd64        Fast LZ compression algorithm library - runtime
+    ii  liblz4-1:amd64                1.8.3-1+deb10u1             amd64        Fast LZ compression algorithm library - runtime
     ii  liblzma5:amd64                5.2.4-1                     amd64        XZ-format compression library
     ii  libmnl0:amd64                 1.0.4-2                     amd64        minimalistic Netlink communication library
     ii  libmount1:amd64               2.33.1-0.1                  amd64        device mounting library
