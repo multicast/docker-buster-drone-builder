@@ -255,8 +255,8 @@ drone.io builder container.
     ii  libuuid1:amd64                2.33.1-0.1                  amd64        Universally Unique ID library
     ii  libwebp6:amd64                0.6.1-2                     amd64        Lossy compression of digital photographic images.
     ii  libwoff1:amd64                1.0.2-1                     amd64        library for converting fonts to WOFF 2.0
-    ii  libx11-6:amd64                2:1.6.7-1+deb10u1           amd64        X11 client-side library
-    ii  libx11-data                   2:1.6.7-1+deb10u1           all          X11 client-side library
+    ii  libx11-6:amd64                2:1.6.7-1+deb10u2           amd64        X11 client-side library
+    ii  libx11-data                   2:1.6.7-1+deb10u2           all          X11 client-side library
     ii  libxau6:amd64                 1:1.0.8-1+b2                amd64        X11 authorisation library
     ii  libxaw7:amd64                 2:1.0.13-1+b2               amd64        X11 Athena Widget library
     ii  libxcb-render0:amd64          1.13.1-2                    amd64        X C Binding, render extension
