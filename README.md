@@ -148,7 +148,7 @@ drone.io builder container.
     ii  libgssapi-krb5-2:amd64        1.17-3+deb10u1              amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
     ii  libharfbuzz-icu0:amd64        2.3.1-1                     amd64        OpenType text shaping engine ICU backend
     ii  libharfbuzz0b:amd64           2.3.1-1                     amd64        OpenType text shaping engine (shared library)
-    ii  libhogweed4:amd64             3.4.1-1                     amd64        low level cryptographic library (public-key cryptos)
+    ii  libhogweed4:amd64             3.4.1-1+deb10u1             amd64        low level cryptographic library (public-key cryptos)
     ii  libice6:amd64                 2:1.0.9-2                   amd64        X11 Inter-Client Exchange library
     ii  libicu63:amd64                63.1-6+deb10u1              amd64        International Components for Unicode
     ii  libidn11:amd64                1.33-2.2                    amd64        GNU Libidn library, implementation of IETF IDN specifications
@@ -188,7 +188,7 @@ drone.io builder container.
     ii  libncurses6:amd64             6.1+20181013-2+deb10u2      amd64        shared libraries for terminal handling
     ii  libncursesw6:amd64            6.1+20181013-2+deb10u2      amd64        shared libraries for terminal handling (wide character support)
     ii  libnetfilter-conntrack3:amd64 1.0.7-1                     amd64        Netfilter netlink-conntrack library
-    ii  libnettle6:amd64              3.4.1-1                     amd64        low level cryptographic library (symmetric and one-way cryptos)
+    ii  libnettle6:amd64              3.4.1-1+deb10u1             amd64        low level cryptographic library (symmetric and one-way cryptos)
     ii  libnewt0.52:amd64             0.52.20-8                   amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
     ii  libnfnetlink0:amd64           1.0.1-3+b1                  amd64        Netfilter netlink library
     ii  libnftnl11:amd64              1.1.2-2                     amd64        Netfilter nftables userspace API library
