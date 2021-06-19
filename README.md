@@ -18,7 +18,7 @@ drone.io builder container.
     ii  apt                           1.8.2.3                     amd64        commandline package manager
     ii  apt-transport-https           1.8.2.3                     all          transitional package for https support
     ii  apt-utils                     1.8.2.3                     amd64        package management related utility programs
-    ii  base-files                    10.3+deb10u9                amd64        Debian base system miscellaneous files
+    ii  base-files                    10.3+deb10u10               amd64        Debian base system miscellaneous files
     ii  base-passwd                   3.5.46                      amd64        Debian base system master password and group files
     ii  bash                          5.0-4                       amd64        GNU Bourne Again SHell
     ii  binutils                      2.31.1-16                   amd64        GNU assembler, linker and binary utilities
@@ -134,12 +134,12 @@ drone.io builder container.
     ii  libfreetype6:amd64            2.9.1-3+deb10u2             amd64        FreeType 2 font engine, shared library files
     ii  libgcc-8-dev:amd64            8.3.0-6                     amd64        GCC support library (development files)
     ii  libgcc1:amd64                 1:8.3.0-6                   amd64        GCC support library
-    ii  libgcrypt20:amd64             1.8.4-5                     amd64        LGPL Crypto library - runtime library
+    ii  libgcrypt20:amd64             1.8.4-5+deb10u1             amd64        LGPL Crypto library - runtime library
     ii  libgdbm-compat4:amd64         1.18.1-4                    amd64        GNU dbm database routines (legacy support runtime version) 
     ii  libgdbm6:amd64                1.18.1-4                    amd64        GNU dbm database routines (runtime version) 
-    ii  libglib2.0-0:amd64            2.58.3-2+deb10u2            amd64        GLib library of C routines
+    ii  libglib2.0-0:amd64            2.58.3-2+deb10u3            amd64        GLib library of C routines
     ii  libgmp10:amd64                2:6.1.2+dfsg-4              amd64        Multiprecision arithmetic library
-    ii  libgnutls30:amd64             3.6.7-4+deb10u6             amd64        GNU TLS library - main runtime library
+    ii  libgnutls30:amd64             3.6.7-4+deb10u7             amd64        GNU TLS library - main runtime library
     ii  libgomp1:amd64                8.3.0-6                     amd64        GCC OpenMP (GOMP) support library
     ii  libgpg-error0:amd64           1.35-1                      amd64        GnuPG development runtime library
     ii  libgraphite2-3:amd64          1.3.13-7                    amd64        Font rendering engine for Complex Scripts -- library
@@ -273,7 +273,7 @@ drone.io builder container.
     ii  libxxhash0:amd64              0.6.5-2                     amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u2        amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2                 amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.181-1                  amd64        Linux support headers for userspace development
+    ii  linux-libc-dev:amd64          4.19.194-1                  amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                     all          reclaim disk space by removing unneeded localizations
     ii  locales                       2.28-10                     all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                   amd64        system login tools
