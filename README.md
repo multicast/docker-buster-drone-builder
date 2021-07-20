@@ -240,7 +240,7 @@ drone.io builder container.
     ii  libstdc++-8-dev:amd64         8.3.0-6                     amd64        GNU Standard C++ Library v3 (development files)
     ii  libstdc++6:amd64              8.3.0-6                     amd64        GNU Standard C++ Library v3
     ii  libsynctex2:amd64             2018.20181218.49446-1       amd64        TeX Live: SyncTeX parser library
-    ii  libsystemd0:amd64             241-7~deb10u7               amd64        systemd utility library
+    ii  libsystemd0:amd64             241-7~deb10u8               amd64        systemd utility library
     ii  libtasn1-6:amd64              4.13-3                      amd64        Manage ASN.1 structures (runtime)
     ii  libteckit0:amd64              2.5.8+ds2-5                 amd64        Encoding conversion library
     ii  libtexlua52:amd64             2018.20181218.49446-1       amd64        TeX Live: Lua 5.2, modified for use with LuaTeX
@@ -250,7 +250,7 @@ drone.io builder container.
     ii  libtinfo6:amd64               6.1+20181013-2+deb10u2      amd64        shared low-level terminfo library for terminal handling
     ii  libtsan0:amd64                8.3.0-6                     amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
     ii  libubsan1:amd64               8.3.0-6                     amd64        UBSan -- undefined behaviour sanitizer (runtime)
-    ii  libudev1:amd64                241-7~deb10u7               amd64        libudev shared library
+    ii  libudev1:amd64                241-7~deb10u8               amd64        libudev shared library
     ii  libunistring2:amd64           0.9.10-1                    amd64        Unicode string library for C
     ii  libuuid1:amd64                2.33.1-0.1                  amd64        Universally Unique ID library
     ii  libwebp6:amd64                0.6.1-2+deb10u1             amd64        Lossy compression of digital photographic images.
@@ -273,7 +273,7 @@ drone.io builder container.
     ii  libxxhash0:amd64              0.6.5-2                     amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u2        amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2                 amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.194-2                  amd64        Linux support headers for userspace development
+    ii  linux-libc-dev:amd64          4.19.194-3                  amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                     all          reclaim disk space by removing unneeded localizations
     ii  locales                       2.28-10                     all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                   amd64        system login tools
