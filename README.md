@@ -145,7 +145,7 @@ drone.io builder container.
     ii  libgraphite2-3:amd64          1.3.13-7                    amd64        Font rendering engine for Complex Scripts -- library
     ii  libgs9:amd64                  9.27~dfsg-2+deb10u4         amd64        interpreter for the PostScript language and for PDF - Library
     ii  libgs9-common                 9.27~dfsg-2+deb10u4         all          interpreter for the PostScript language and for PDF - common files
-    ii  libgssapi-krb5-2:amd64        1.17-3+deb10u1              amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+    ii  libgssapi-krb5-2:amd64        1.17-3+deb10u2              amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
     ii  libharfbuzz-icu0:amd64        2.3.1-1                     amd64        OpenType text shaping engine ICU backend
     ii  libharfbuzz0b:amd64           2.3.1-1                     amd64        OpenType text shaping engine (shared library)
     ii  libhogweed4:amd64             3.4.1-1+deb10u1             amd64        low level cryptographic library (public-key cryptos)
@@ -167,11 +167,11 @@ drone.io builder container.
     ii  libjs-modernizr               2.6.2+ds1-3                 all          JavaScript library to detect HTML5 and CSS3 features in the user's browser
     ii  libjs-sphinxdoc               1.8.4-1                     all          JavaScript support for Sphinx documentation
     ii  libjs-underscore              1.9.1~dfsg-1+deb10u1        all          JavaScript's functional programming helper library
-    ii  libk5crypto3:amd64            1.17-3+deb10u1              amd64        MIT Kerberos runtime libraries - Crypto Library
+    ii  libk5crypto3:amd64            1.17-3+deb10u2              amd64        MIT Kerberos runtime libraries - Crypto Library
     ii  libkeyutils1:amd64            1.6-6                       amd64        Linux Key Management Utilities (library)
     ii  libkpathsea6:amd64            2018.20181218.49446-1       amd64        TeX Live: path search library for TeX (runtime part)
-    ii  libkrb5-3:amd64               1.17-3+deb10u1              amd64        MIT Kerberos runtime libraries
-    ii  libkrb5support0:amd64         1.17-3+deb10u1              amd64        MIT Kerberos runtime libraries - Support library
+    ii  libkrb5-3:amd64               1.17-3+deb10u2              amd64        MIT Kerberos runtime libraries
+    ii  libkrb5support0:amd64         1.17-3+deb10u2              amd64        MIT Kerberos runtime libraries - Support library
     ii  libksba8:amd64                1.3.5-2                     amd64        X.509 and CMS support library
     ii  liblcms2-2:amd64              2.9-3                       amd64        Little CMS 2 color management library
     ii  libldap-2.4-2:amd64           2.4.47+dfsg-3+deb10u6       amd64        OpenLDAP libraries
