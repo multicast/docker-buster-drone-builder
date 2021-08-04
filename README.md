@@ -42,8 +42,8 @@ drone.io builder container.
     ii  dirmngr                       2.2.12-1+deb10u1            amd64        GNU privacy guard - network certificate management service
     ii  distro-info-data              0.41+deb10u3                all          information about the distributions' releases (data files)
     ii  dmsetup                       2:1.02.155-3                amd64        Linux Kernel Device Mapper userspace library
-    ii  docker-ce                     5:20.10.7~3-0~debian-buster amd64        Docker: the open-source application container engine
-    ii  docker-ce-cli                 5:20.10.7~3-0~debian-buster amd64        Docker CLI: the open-source application container engine
+    ii  docker-ce                     5:20.10.8~3-0~debian-buster amd64        Docker: the open-source application container engine
+    ii  docker-ce-cli                 5:20.10.8~3-0~debian-buster amd64        Docker CLI: the open-source application container engine
     ii  docutils-common               0.14+dfsg-4                 all          text processing system for reStructuredText - common data
     ii  dpkg                          1.19.7                      amd64        Debian package management system
     ii  dpkg-dev                      1.19.7                      all          Debian package development tools
