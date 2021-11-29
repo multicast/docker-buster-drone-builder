@@ -150,7 +150,7 @@ drone.io builder container.
     ii  libharfbuzz0b:amd64           2.3.1-1                      amd64        OpenType text shaping engine (shared library)
     ii  libhogweed4:amd64             3.4.1-1+deb10u1              amd64        low level cryptographic library (public-key cryptos)
     ii  libice6:amd64                 2:1.0.9-2                    amd64        X11 Inter-Client Exchange library
-    ii  libicu63:amd64                63.1-6+deb10u1               amd64        International Components for Unicode
+    ii  libicu63:amd64                63.1-6+deb10u2               amd64        International Components for Unicode
     ii  libidn11:amd64                1.33-2.2                     amd64        GNU Libidn library, implementation of IETF IDN specifications
     ii  libidn2-0:amd64               2.0.5-1+deb10u1              amd64        Internationalized domain names (IDNA2008/TR46) library
     ii  libijs-0.35:amd64             0.35-14                      amd64        IJS raster image transport protocol: shared library
