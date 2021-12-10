@@ -300,7 +300,7 @@ drone.io builder container.
     ii  ps2eps                        1.68+binaryfree-2            amd64        convert PostScript to EPS (Encapsulated PostScript) files
     ii  psmisc                        23.2-1+deb10u1               amd64        utilities that use the proc file system
     ii  python                        2.7.16-1                     amd64        interactive high-level object-oriented language (Python2 version)
-    ii  python-babel-localedata       2.6.0+dfsg.1-1               all          tools for internationalizing Python applications - locale data files
+    ii  python-babel-localedata       2.6.0+dfsg.1-1+deb10u1       all          tools for internationalizing Python applications - locale data files
     ii  python-minimal                2.7.16-1                     amd64        minimal subset of the Python2 language
     ii  python2                       2.7.16-1                     amd64        interactive high-level object-oriented language (Python2 version)
     ii  python2-minimal               2.7.16-1                     amd64        minimal subset of the Python2 language
@@ -308,7 +308,7 @@ drone.io builder container.
     ii  python2.7-minimal             2.7.16-2+deb10u1             amd64        Minimal subset of the Python language (version 2.7)
     ii  python3                       3.7.3-1                      amd64        interactive high-level object-oriented language (default python3 version)
     ii  python3-alabaster             0.7.8-1                      all          Configurable sidebar-enabled Sphinx theme (Python 3)
-    ii  python3-babel                 2.6.0+dfsg.1-1               all          tools for internationalizing Python applications - Python 3.x
+    ii  python3-babel                 2.6.0+dfsg.1-1+deb10u1       all          tools for internationalizing Python applications - Python 3.x
     ii  python3-certifi               2018.8.24-1                  all          root certificates for validating SSL certs and verifying TLS hosts (python3)
     ii  python3-chardet               3.0.4-3                      all          universal character encoding detector for Python3
     ii  python3-distutils             3.7.3-1                      all          distutils package for Python 3.x
