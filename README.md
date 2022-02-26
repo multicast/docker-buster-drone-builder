@@ -223,8 +223,8 @@ drone.io builder container.
     ii  libquadmath0:amd64            8.3.0-6                      amd64        GCC Quad-Precision Math Library
     ii  libreadline7:amd64            7.0-5                        amd64        GNU readline and history libraries, run-time libraries
     ii  librtmp1:amd64                2.4+20151223.gitfa8646d.1-2  amd64        toolkit for RTMP streams (shared library)
-    ii  libsasl2-2:amd64              2.1.27+dfsg-1+deb10u1        amd64        Cyrus SASL - authentication abstraction library
-    ii  libsasl2-modules-db:amd64     2.1.27+dfsg-1+deb10u1        amd64        Cyrus SASL - pluggable authentication modules (DB)
+    ii  libsasl2-2:amd64              2.1.27+dfsg-1+deb10u2        amd64        Cyrus SASL - authentication abstraction library
+    ii  libsasl2-modules-db:amd64     2.1.27+dfsg-1+deb10u2        amd64        Cyrus SASL - pluggable authentication modules (DB)
     ii  libseccomp2:amd64             2.3.3-4                      amd64        high level interface to Linux seccomp filter
     ii  libselinux1:amd64             2.8-1+b1                     amd64        SELinux runtime shared libraries
     ii  libsemanage-common            2.8-2                        all          Common files for SELinux policy management libraries
