@@ -18,7 +18,7 @@ drone.io builder container.
     ii  apt                           1.8.2.3                      amd64        commandline package manager
     ii  apt-transport-https           1.8.2.3                      all          transitional package for https support
     ii  apt-utils                     1.8.2.3                      amd64        package management related utility programs
-    ii  base-files                    10.3+deb10u11                amd64        Debian base system miscellaneous files
+    ii  base-files                    10.3+deb10u12                amd64        Debian base system miscellaneous files
     ii  base-passwd                   3.5.46                       amd64        Debian base system master password and group files
     ii  bash                          5.0-4                        amd64        GNU Bourne Again SHell
     ii  binutils                      2.31.1-16                    amd64        GNU assembler, linker and binary utilities
@@ -103,19 +103,19 @@ drone.io builder container.
     ii  libbrotli1:amd64              1.0.7-2+deb10u1              amd64        library implementing brotli encoder and decoder (shared libraries)
     ii  libbsd0:amd64                 0.9.1-2+deb10u1              amd64        utility functions from BSD systems - shared library
     ii  libbz2-1.0:amd64              1.0.6-9.2~deb10u1            amd64        high-quality block-sorting file compressor library - runtime
-    ii  libc-bin                      2.28-10                      amd64        GNU C Library: Binaries
-    ii  libc-dev-bin                  2.28-10                      amd64        GNU C Library: Development binaries
-    ii  libc-l10n                     2.28-10                      all          GNU C Library: localization files
-    ii  libc6:amd64                   2.28-10                      amd64        GNU C Library: Shared libraries
-    ii  libc6-dev:amd64               2.28-10                      amd64        GNU C Library: Development Libraries and Header Files
+    ii  libc-bin                      2.28-10+deb10u1              amd64        GNU C Library: Binaries
+    ii  libc-dev-bin                  2.28-10+deb10u1              amd64        GNU C Library: Development binaries
+    ii  libc-l10n                     2.28-10+deb10u1              all          GNU C Library: localization files
+    ii  libc6:amd64                   2.28-10+deb10u1              amd64        GNU C Library: Shared libraries
+    ii  libc6-dev:amd64               2.28-10+deb10u1              amd64        GNU C Library: Development Libraries and Header Files
     ii  libcairo2:amd64               1.16.0-4+deb10u1             amd64        Cairo 2D vector graphics library
     ii  libcap-ng0:amd64              0.7.9-2                      amd64        An alternate POSIX capabilities library
     ii  libcap2:amd64                 1:2.25-2                     amd64        POSIX 1003.1e capabilities (library)
     ii  libcap2-bin                   1:2.25-2                     amd64        POSIX 1003.1e capabilities (utilities)
     ii  libcc1-0:amd64                8.3.0-6                      amd64        GCC cc1 plugin for GDB
     ii  libcom-err2:amd64             1.44.5-1+deb10u3             amd64        common error description library
-    ii  libcups2:amd64                2.2.10-6+deb10u4             amd64        Common UNIX Printing System(tm) - Core library
-    ii  libcupsimage2:amd64           2.2.10-6+deb10u4             amd64        Common UNIX Printing System(tm) - Raster image library
+    ii  libcups2:amd64                2.2.10-6+deb10u5             amd64        Common UNIX Printing System(tm) - Core library
+    ii  libcupsimage2:amd64           2.2.10-6+deb10u5             amd64        Common UNIX Printing System(tm) - Raster image library
     ii  libcurl3-gnutls:amd64         7.64.0-4+deb10u2             amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
     ii  libcurl4:amd64                7.64.0-4+deb10u2             amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
     ii  libdb5.3:amd64                5.3.28+dfsg1-0.5             amd64        Berkeley v5.3 Database Libraries [runtime]
@@ -138,7 +138,7 @@ drone.io builder container.
     ii  libgdbm-compat4:amd64         1.18.1-4                     amd64        GNU dbm database routines (legacy support runtime version) 
     ii  libgdbm6:amd64                1.18.1-4                     amd64        GNU dbm database routines (runtime version) 
     ii  libglib2.0-0:amd64            2.58.3-2+deb10u3             amd64        GLib library of C routines
-    ii  libgmp10:amd64                2:6.1.2+dfsg-4               amd64        Multiprecision arithmetic library
+    ii  libgmp10:amd64                2:6.1.2+dfsg-4+deb10u1       amd64        Multiprecision arithmetic library
     ii  libgnutls30:amd64             3.6.7-4+deb10u7              amd64        GNU TLS library - main runtime library
     ii  libgomp1:amd64                8.3.0-6                      amd64        GCC OpenMP (GOMP) support library
     ii  libgpg-error0:amd64           1.35-1                       amd64        GnuPG development runtime library
@@ -150,7 +150,7 @@ drone.io builder container.
     ii  libharfbuzz0b:amd64           2.3.1-1                      amd64        OpenType text shaping engine (shared library)
     ii  libhogweed4:amd64             3.4.1-1+deb10u1              amd64        low level cryptographic library (public-key cryptos)
     ii  libice6:amd64                 2:1.0.9-2                    amd64        X11 Inter-Client Exchange library
-    ii  libicu63:amd64                63.1-6+deb10u2               amd64        International Components for Unicode
+    ii  libicu63:amd64                63.1-6+deb10u3               amd64        International Components for Unicode
     ii  libidn11:amd64                1.33-2.2                     amd64        GNU Libidn library, implementation of IETF IDN specifications
     ii  libidn2-0:amd64               2.0.5-1+deb10u1              amd64        Internationalized domain names (IDNA2008/TR46) library
     ii  libijs-0.35:amd64             0.35-14                      amd64        IJS raster image transport protocol: shared library
@@ -160,7 +160,7 @@ drone.io builder container.
     ii  libisl19:amd64                0.20-2                       amd64        manipulating sets and relations of integer points bounded by linear constraints
     ii  libitm1:amd64                 8.3.0-6                      amd64        GNU Transactional Memory Library
     ii  libjbig0:amd64                2.1-3.1+b2                   amd64        JBIGkit libraries
-    ii  libjbig2dec0:amd64            0.16-1                       amd64        JBIG2 decoder library - shared libraries
+    ii  libjbig2dec0:amd64            0.16-1+deb10u1               amd64        JBIG2 decoder library - shared libraries
     ii  libjpeg62-turbo:amd64         1:1.5.2-2+deb10u1            amd64        libjpeg-turbo JPEG runtime library
     ii  libjq1:amd64                  1.5+dfsg-2+b1                amd64        lightweight and flexible command-line JSON processor - shared library
     ii  libjs-jquery                  3.3.1~dfsg-3+deb10u1         all          JavaScript library for dynamic web applications
@@ -236,7 +236,7 @@ drone.io builder container.
     ii  libsqlite3-0:amd64            3.27.2-3+deb10u1             amd64        SQLite 3 shared library
     ii  libss2:amd64                  1.44.5-1+deb10u3             amd64        command-line interface parsing library
     ii  libssh2-1:amd64               1.8.0-2.1                    amd64        SSH2 client-side library
-    ii  libssl1.1:amd64               1.1.1d-0+deb10u8             amd64        Secure Sockets Layer toolkit - shared libraries
+    ii  libssl1.1:amd64               1.1.1n-0+deb10u1             amd64        Secure Sockets Layer toolkit - shared libraries
     ii  libstdc++-8-dev:amd64         8.3.0-6                      amd64        GNU Standard C++ Library v3 (development files)
     ii  libstdc++6:amd64              8.3.0-6                      amd64        GNU Standard C++ Library v3
     ii  libsynctex2:amd64             2018.20181218.49446-1        amd64        TeX Live: SyncTeX parser library
@@ -272,10 +272,10 @@ drone.io builder container.
     ii  libxtables12:amd64            1.8.2-4                      amd64        netfilter xtables library
     ii  libxxhash0:amd64              0.6.5-2                      amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u2         amd64        fast lossless compression algorithm
-    ii  libzzip-0-13:amd64            0.13.62-3.2                  amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.232-1                   amd64        Linux support headers for userspace development
+    ii  libzzip-0-13:amd64            0.13.62-3.2+deb10u1          amd64        library providing read access on ZIP-archives - library
+    ii  linux-libc-dev:amd64          4.19.235-1                   amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                      all          reclaim disk space by removing unneeded localizations
-    ii  locales                       2.28-10                      all          GNU C Library: National Language (locale) data [support]
+    ii  locales                       2.28-10+deb10u1              all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                    amd64        system login tools
     ii  lsb-base                      10.2019051400                all          Linux Standard Base init script functionality
     ii  lsb-release                   10.2019051400                all          Linux Standard Base version reporting utility
@@ -287,7 +287,7 @@ drone.io builder container.
     ii  ncurses-bin                   6.1+20181013-2+deb10u2       amd64        terminal-related programs and man pages
     ii  net-tools                     1.60+git20180626.aebd88e-1   amd64        NET-3 networking toolkit
     ii  openssh-client                1:7.9p1-10+deb10u2           amd64        secure shell (SSH) client, for secure access to remote machines
-    ii  openssl                       1.1.1d-0+deb10u8             amd64        Secure Sockets Layer toolkit - cryptographic utility
+    ii  openssl                       1.1.1n-0+deb10u1             amd64        Secure Sockets Layer toolkit - cryptographic utility
     ii  passwd                        1:4.5-1.1                    amd64        change and administer password and group data
     ii  patch                         2.7.6-3+deb10u1              amd64        Apply a diff file to an original
     ii  perl                          5.28.1-6+deb10u1             amd64        Larry Wall's Practical Extraction and Report Language
@@ -356,7 +356,7 @@ drone.io builder container.
     ii  texlive-latex-recommended     2018.20190227-2              all          TeX Live: LaTeX recommended packages
     ii  texlive-pictures              2018.20190227-2              all          TeX Live: Graphics, pictures, diagrams
     ii  texlive-plain-generic         2018.20190227-2              all          TeX Live: Plain (La)TeX packages
-    ii  tzdata                        2021a-0+deb10u3              all          time zone and daylight-saving time data
+    ii  tzdata                        2021a-0+deb10u4              all          time zone and daylight-saving time data
     ii  ucf                           3.0038+nmu1                  all          Update Configuration File(s): preserve user changes to config files
     ii  unzip                         6.0-23+deb10u2               amd64        De-archiver for .zip files
     ii  util-linux                    2.33.1-0.1                   amd64        miscellaneous system utilities
