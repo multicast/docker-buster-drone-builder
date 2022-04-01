@@ -367,4 +367,4 @@ drone.io builder container.
     ii  xml-core                      0.18+nmu1                    all          XML infrastructure and XML catalog file support
     ii  xtail                         2.1-6                        amd64        like "tail -f", but works on truncated files, directories, more
     ii  xz-utils                      5.2.4-1                      amd64        XZ-format compression utilities
-    ii  zlib1g:amd64                  1:1.2.11.dfsg-1              amd64        compression library - runtime
+    ii  zlib1g:amd64                  1:1.2.11.dfsg-1+deb10u1      amd64        compression library - runtime
