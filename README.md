@@ -76,7 +76,7 @@ drone.io builder container.
     ii  gpgsm                         2.2.12-1+deb10u1             amd64        GNU privacy guard - S/MIME version
     ii  gpgv                          2.2.12-1+deb10u1             amd64        GNU privacy guard - signature verification tool
     ii  grep                          3.3-1                        amd64        GNU grep, egrep and fgrep
-    ii  gzip                          1.9-3                        amd64        GNU compression utilities
+    ii  gzip                          1.9-3+deb10u1                amd64        GNU compression utilities
     ii  hostname                      3.21                         amd64        utility to set/show the host name or domain name
     ii  init-system-helpers           1.56+nmu1                    all          helper tools for all init systems
     ii  iproute2                      4.20.0-2+deb10u1             amd64        networking and traffic control tools
@@ -178,7 +178,7 @@ drone.io builder container.
     ii  libldap-common                2.4.47+dfsg-3+deb10u6        all          OpenLDAP common files for libraries
     ii  liblsan0:amd64                8.3.0-6                      amd64        LeakSanitizer -- a memory leak detector (runtime)
     ii  liblz4-1:amd64                1.8.3-1+deb10u1              amd64        Fast LZ compression algorithm library - runtime
-    ii  liblzma5:amd64                5.2.4-1                      amd64        XZ-format compression library
+    ii  liblzma5:amd64                5.2.4-1+deb10u1              amd64        XZ-format compression library
     ii  libmnl0:amd64                 1.0.4-2                      amd64        minimalistic Netlink communication library
     ii  libmount1:amd64               2.33.1-0.1                   amd64        device mounting library
     ii  libmpc3:amd64                 1.1.0-1                      amd64        multiple precision complex floating-point library
@@ -366,5 +366,5 @@ drone.io builder container.
     ii  xdg-utils                     1.1.3-1+deb10u1              all          desktop integration utilities from freedesktop.org
     ii  xml-core                      0.18+nmu1                    all          XML infrastructure and XML catalog file support
     ii  xtail                         2.1-6                        amd64        like "tail -f", but works on truncated files, directories, more
-    ii  xz-utils                      5.2.4-1                      amd64        XZ-format compression utilities
+    ii  xz-utils                      5.2.4-1+deb10u1              amd64        XZ-format compression utilities
     ii  zlib1g:amd64                  1:1.2.11.dfsg-1+deb10u1      amd64        compression library - runtime
