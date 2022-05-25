@@ -45,8 +45,8 @@ drone.io builder container.
     ii  docker-ce                     5:20.10.16~3-0~debian-buster amd64        Docker: the open-source application container engine
     ii  docker-ce-cli                 5:20.10.16~3-0~debian-buster amd64        Docker CLI: the open-source application container engine
     ii  docutils-common               0.14+dfsg-4                  all          text processing system for reStructuredText - common data
-    ii  dpkg                          1.19.7                       amd64        Debian package management system
-    ii  dpkg-dev                      1.19.7                       all          Debian package development tools
+    ii  dpkg                          1.19.8                       amd64        Debian package management system
+    ii  dpkg-dev                      1.19.8                       all          Debian package development tools
     ii  e2fsprogs                     1.44.5-1+deb10u3             amd64        ext2/ext3/ext4 file system utilities
     ii  etckeeper                     1.18.10-1                    all          store /etc in git, mercurial, bzr or darcs
     ii  fdisk                         2.33.1-0.1                   amd64        collection of partitioning utilities
@@ -122,7 +122,7 @@ drone.io builder container.
     ii  libdbus-1-3:amd64             1.12.20-0+deb10u1            amd64        simple interprocess messaging system (library)
     ii  libdebconfclient0:amd64       0.249                        amd64        Debian Configuration Management System (C-implementation library)
     ii  libdevmapper1.02.1:amd64      2:1.02.155-3                 amd64        Linux Kernel Device Mapper userspace library
-    ii  libdpkg-perl                  1.19.7                       all          Dpkg perl modules
+    ii  libdpkg-perl                  1.19.8                       all          Dpkg perl modules
     ii  libedit2:amd64                3.1-20181209-1               amd64        BSD editline and history libraries
     ii  libelf1:amd64                 0.176-1.1                    amd64        library to read and write ELF files
     ii  liberror-perl                 0.17027-2                    all          Perl module for error/exception handling in an OO-ish way
