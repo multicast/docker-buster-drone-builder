@@ -39,7 +39,7 @@ drone.io builder container.
     ii  debianutils                   4.8.6.1                      amd64        Miscellaneous utilities specific to Debian
     ii  di                            4.47-1                       amd64        advanced df like disk information utility
     ii  diffutils                     1:3.7-3                      amd64        File comparison utilities
-    ii  dirmngr                       2.2.12-1+deb10u1             amd64        GNU privacy guard - network certificate management service
+    ii  dirmngr                       2.2.12-1+deb10u2             amd64        GNU privacy guard - network certificate management service
     ii  distro-info-data              0.41+deb10u4                 all          information about the distributions' releases (data files)
     ii  dmsetup                       2:1.02.155-3                 amd64        Linux Kernel Device Mapper userspace library
     ii  docker-ce                     5:20.10.17~3-0~debian-buster amd64        Docker: the open-source application container engine
@@ -65,16 +65,16 @@ drone.io builder container.
     ii  ghostscript                   9.27~dfsg-2+deb10u5          amd64        interpreter for the PostScript language and for PDF
     ii  git                           1:2.20.1-2+deb10u3           amd64        fast, scalable, distributed revision control system
     ii  git-man                       1:2.20.1-2+deb10u3           all          fast, scalable, distributed revision control system (manual pages)
-    ii  gnupg                         2.2.12-1+deb10u1             all          GNU privacy guard - a free PGP replacement
-    ii  gnupg-l10n                    2.2.12-1+deb10u1             all          GNU privacy guard - localization files
-    ii  gnupg-utils                   2.2.12-1+deb10u1             amd64        GNU privacy guard - utility programs
-    ii  gpg                           2.2.12-1+deb10u1             amd64        GNU Privacy Guard -- minimalist public key operations
-    ii  gpg-agent                     2.2.12-1+deb10u1             amd64        GNU privacy guard - cryptographic agent
-    ii  gpg-wks-client                2.2.12-1+deb10u1             amd64        GNU privacy guard - Web Key Service client
-    ii  gpg-wks-server                2.2.12-1+deb10u1             amd64        GNU privacy guard - Web Key Service server
-    ii  gpgconf                       2.2.12-1+deb10u1             amd64        GNU privacy guard - core configuration utilities
-    ii  gpgsm                         2.2.12-1+deb10u1             amd64        GNU privacy guard - S/MIME version
-    ii  gpgv                          2.2.12-1+deb10u1             amd64        GNU privacy guard - signature verification tool
+    ii  gnupg                         2.2.12-1+deb10u2             all          GNU privacy guard - a free PGP replacement
+    ii  gnupg-l10n                    2.2.12-1+deb10u2             all          GNU privacy guard - localization files
+    ii  gnupg-utils                   2.2.12-1+deb10u2             amd64        GNU privacy guard - utility programs
+    ii  gpg                           2.2.12-1+deb10u2             amd64        GNU Privacy Guard -- minimalist public key operations
+    ii  gpg-agent                     2.2.12-1+deb10u2             amd64        GNU privacy guard - cryptographic agent
+    ii  gpg-wks-client                2.2.12-1+deb10u2             amd64        GNU privacy guard - Web Key Service client
+    ii  gpg-wks-server                2.2.12-1+deb10u2             amd64        GNU privacy guard - Web Key Service server
+    ii  gpgconf                       2.2.12-1+deb10u2             amd64        GNU privacy guard - core configuration utilities
+    ii  gpgsm                         2.2.12-1+deb10u2             amd64        GNU privacy guard - S/MIME version
+    ii  gpgv                          2.2.12-1+deb10u2             amd64        GNU privacy guard - signature verification tool
     ii  grep                          3.3-1                        amd64        GNU grep, egrep and fgrep
     ii  gzip                          1.9-3+deb10u1                amd64        GNU compression utilities
     ii  hostname                      3.21                         amd64        utility to set/show the host name or domain name
@@ -273,7 +273,7 @@ drone.io builder container.
     ii  libxxhash0:amd64              0.6.5-2                      amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u2         amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2+deb10u1          amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.235-1                   amd64        Linux support headers for userspace development
+    ii  linux-libc-dev:amd64          4.19.249-2                   amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                      all          reclaim disk space by removing unneeded localizations
     ii  locales                       2.28-10+deb10u1              all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                    amd64        system login tools
