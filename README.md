@@ -28,7 +28,7 @@ drone.io builder container.
     ii  build-essential               12.6                         amd64        Informational list of build-essential packages
     ii  bzip2                         1.0.6-9.2~deb10u1            amd64        high-quality block-sorting file compressor - utilities
     ii  ca-certificates               20200601~deb10u2             all          Common CA certificates
-    ii  containerd.io                 1.6.7-1                      amd64        An open and reliable container runtime
+    ii  containerd.io                 1.6.8-1                      amd64        An open and reliable container runtime
     ii  coreutils                     8.30-3                       amd64        GNU core utilities
     ii  cpp                           4:8.3.0-1                    amd64        GNU C preprocessor (cpp)
     ii  cpp-8                         8.3.0-6                      amd64        GNU C preprocessor
