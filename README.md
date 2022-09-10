@@ -18,7 +18,7 @@ drone.io builder container.
     ii  apt                           1.8.2.3                      amd64        commandline package manager
     ii  apt-transport-https           1.8.2.3                      all          transitional package for https support
     ii  apt-utils                     1.8.2.3                      amd64        package management related utility programs
-    ii  base-files                    10.3+deb10u12                amd64        Debian base system miscellaneous files
+    ii  base-files                    10.3+deb10u13                amd64        Debian base system miscellaneous files
     ii  base-passwd                   3.5.46                       amd64        Debian base system master password and group files
     ii  bash                          5.0-4                        amd64        GNU Bourne Again SHell
     ii  binutils                      2.31.1-16                    amd64        GNU assembler, linker and binary utilities
@@ -40,7 +40,7 @@ drone.io builder container.
     ii  di                            4.47-1                       amd64        advanced df like disk information utility
     ii  diffutils                     1:3.7-3                      amd64        File comparison utilities
     ii  dirmngr                       2.2.12-1+deb10u2             amd64        GNU privacy guard - network certificate management service
-    ii  distro-info-data              0.41+deb10u4                 all          information about the distributions' releases (data files)
+    ii  distro-info-data              0.41+deb10u5                 all          information about the distributions' releases (data files)
     ii  dmsetup                       2:1.02.155-3                 amd64        Linux Kernel Device Mapper userspace library
     ii  docker-ce                     5:20.10.18~3-0~debian-buster amd64        Docker: the open-source application container engine
     ii  docker-ce-cli                 5:20.10.18~3-0~debian-buster amd64        Docker CLI: the open-source application container engine
@@ -131,7 +131,7 @@ drone.io builder container.
     ii  libfdisk1:amd64               2.33.1-0.1                   amd64        fdisk partitioning library
     ii  libffi6:amd64                 3.2.1-9                      amd64        Foreign Function Interface library runtime
     ii  libfontconfig1:amd64          2.13.1-2                     amd64        generic font configuration library - runtime
-    ii  libfreetype6:amd64            2.9.1-3+deb10u2              amd64        FreeType 2 font engine, shared library files
+    ii  libfreetype6:amd64            2.9.1-3+deb10u3              amd64        FreeType 2 font engine, shared library files
     ii  libgcc-8-dev:amd64            8.3.0-6                      amd64        GCC support library (development files)
     ii  libgcc1:amd64                 1:8.3.0-6                    amd64        GCC support library
     ii  libgcrypt20:amd64             1.8.4-5+deb10u1              amd64        LGPL Crypto library - runtime library
@@ -145,7 +145,7 @@ drone.io builder container.
     ii  libgraphite2-3:amd64          1.3.13-7                     amd64        Font rendering engine for Complex Scripts -- library
     ii  libgs9:amd64                  9.27~dfsg-2+deb10u6          amd64        interpreter for the PostScript language and for PDF - Library
     ii  libgs9-common                 9.27~dfsg-2+deb10u6          all          interpreter for the PostScript language and for PDF - common files
-    ii  libgssapi-krb5-2:amd64        1.17-3+deb10u3               amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
+    ii  libgssapi-krb5-2:amd64        1.17-3+deb10u4               amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
     ii  libharfbuzz-icu0:amd64        2.3.1-1                      amd64        OpenType text shaping engine ICU backend
     ii  libharfbuzz0b:amd64           2.3.1-1                      amd64        OpenType text shaping engine (shared library)
     ii  libhogweed4:amd64             3.4.1-1+deb10u1              amd64        low level cryptographic library (public-key cryptos)
@@ -167,11 +167,11 @@ drone.io builder container.
     ii  libjs-modernizr               2.6.2+ds1-3                  all          JavaScript library to detect HTML5 and CSS3 features in the user's browser
     ii  libjs-sphinxdoc               1.8.4-1                      all          JavaScript support for Sphinx documentation
     ii  libjs-underscore              1.9.1~dfsg-1+deb10u1         all          JavaScript's functional programming helper library
-    ii  libk5crypto3:amd64            1.17-3+deb10u3               amd64        MIT Kerberos runtime libraries - Crypto Library
+    ii  libk5crypto3:amd64            1.17-3+deb10u4               amd64        MIT Kerberos runtime libraries - Crypto Library
     ii  libkeyutils1:amd64            1.6-6                        amd64        Linux Key Management Utilities (library)
     ii  libkpathsea6:amd64            2018.20181218.49446-1        amd64        TeX Live: path search library for TeX (runtime part)
-    ii  libkrb5-3:amd64               1.17-3+deb10u3               amd64        MIT Kerberos runtime libraries
-    ii  libkrb5support0:amd64         1.17-3+deb10u3               amd64        MIT Kerberos runtime libraries - Support library
+    ii  libkrb5-3:amd64               1.17-3+deb10u4               amd64        MIT Kerberos runtime libraries
+    ii  libkrb5support0:amd64         1.17-3+deb10u4               amd64        MIT Kerberos runtime libraries - Support library
     ii  libksba8:amd64                1.3.5-2                      amd64        X.509 and CMS support library
     ii  liblcms2-2:amd64              2.9-3                        amd64        Little CMS 2 color management library
     ii  libldap-2.4-2:amd64           2.4.47+dfsg-3+deb10u7        amd64        OpenLDAP libraries
