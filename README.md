@@ -26,7 +26,7 @@ drone.io builder container.
     ii  binutils-x86-64-linux-gnu     2.31.1-16                    amd64        GNU binary utilities, for x86-64-linux-gnu target
     ii  bsdutils                      1:2.33.1-0.1                 amd64        basic utilities from 4.4BSD-Lite
     ii  build-essential               12.6                         amd64        Informational list of build-essential packages
-    ii  bzip2                         1.0.6-9.2~deb10u1            amd64        high-quality block-sorting file compressor - utilities
+    ii  bzip2                         1.0.6-9.2~deb10u2            amd64        high-quality block-sorting file compressor - utilities
     ii  ca-certificates               20200601~deb10u2             all          Common CA certificates
     ii  containerd.io                 1.6.8-1                      amd64        An open and reliable container runtime
     ii  coreutils                     8.30-3                       amd64        GNU core utilities
@@ -102,7 +102,7 @@ drone.io builder container.
     ii  libblkid1:amd64               2.33.1-0.1                   amd64        block device ID library
     ii  libbrotli1:amd64              1.0.7-2+deb10u1              amd64        library implementing brotli encoder and decoder (shared libraries)
     ii  libbsd0:amd64                 0.9.1-2+deb10u1              amd64        utility functions from BSD systems - shared library
-    ii  libbz2-1.0:amd64              1.0.6-9.2~deb10u1            amd64        high-quality block-sorting file compressor library - runtime
+    ii  libbz2-1.0:amd64              1.0.6-9.2~deb10u2            amd64        high-quality block-sorting file compressor library - runtime
     ii  libc-bin                      2.28-10+deb10u1              amd64        GNU C Library: Binaries
     ii  libc-dev-bin                  2.28-10+deb10u1              amd64        GNU C Library: Development binaries
     ii  libc-l10n                     2.28-10+deb10u1              all          GNU C Library: localization files
