@@ -119,7 +119,7 @@ drone.io builder container.
     ii  libcurl3-gnutls:amd64         7.64.0-4+deb10u3             amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
     ii  libcurl4:amd64                7.64.0-4+deb10u3             amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
     ii  libdb5.3:amd64                5.3.28+dfsg1-0.5             amd64        Berkeley v5.3 Database Libraries [runtime]
-    ii  libdbus-1-3:amd64             1.12.20-0+deb10u1            amd64        simple interprocess messaging system (library)
+    ii  libdbus-1-3:amd64             1.12.24-0+deb10u1            amd64        simple interprocess messaging system (library)
     ii  libdebconfclient0:amd64       0.249                        amd64        Debian Configuration Management System (C-implementation library)
     ii  libdevmapper1.02.1:amd64      2:1.02.155-3                 amd64        Linux Kernel Device Mapper userspace library
     ii  libdpkg-perl                  1.19.8                       all          Dpkg perl modules
