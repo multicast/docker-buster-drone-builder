@@ -63,8 +63,8 @@ drone.io builder container.
     ii  gcc-8                         8.3.0-6                      amd64        GNU C compiler
     ii  gcc-8-base:amd64              8.3.0-6                      amd64        GCC, the GNU Compiler Collection (base package)
     ii  ghostscript                   9.27~dfsg-2+deb10u6          amd64        interpreter for the PostScript language and for PDF
-    ii  git                           1:2.20.1-2+deb10u3           amd64        fast, scalable, distributed revision control system
-    ii  git-man                       1:2.20.1-2+deb10u3           all          fast, scalable, distributed revision control system (manual pages)
+    ii  git                           1:2.20.1-2+deb10u4           amd64        fast, scalable, distributed revision control system
+    ii  git-man                       1:2.20.1-2+deb10u4           all          fast, scalable, distributed revision control system (manual pages)
     ii  gnupg                         2.2.12-1+deb10u2             all          GNU privacy guard - a free PGP replacement
     ii  gnupg-l10n                    2.2.12-1+deb10u2             all          GNU privacy guard - localization files
     ii  gnupg-utils                   2.2.12-1+deb10u2             amd64        GNU privacy guard - utility programs
