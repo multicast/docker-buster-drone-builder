@@ -28,7 +28,7 @@ drone.io builder container.
     ii  build-essential               12.6                         amd64        Informational list of build-essential packages
     ii  bzip2                         1.0.6-9.2~deb10u2            amd64        high-quality block-sorting file compressor - utilities
     ii  ca-certificates               20200601~deb10u2             all          Common CA certificates
-    ii  containerd.io                 1.6.8-1                      amd64        An open and reliable container runtime
+    ii  containerd.io                 1.6.9-1                      amd64        An open and reliable container runtime
     ii  coreutils                     8.30-3                       amd64        GNU core utilities
     ii  cpp                           4:8.3.0-1                    amd64        GNU C preprocessor (cpp)
     ii  cpp-8                         8.3.0-6                      amd64        GNU C preprocessor
@@ -42,8 +42,8 @@ drone.io builder container.
     ii  dirmngr                       2.2.12-1+deb10u2             amd64        GNU privacy guard - network certificate management service
     ii  distro-info-data              0.41+deb10u5                 all          information about the distributions' releases (data files)
     ii  dmsetup                       2:1.02.155-3                 amd64        Linux Kernel Device Mapper userspace library
-    ii  docker-ce                     5:20.10.20~3-0~debian-buster amd64        Docker: the open-source application container engine
-    ii  docker-ce-cli                 5:20.10.20~3-0~debian-buster amd64        Docker CLI: the open-source application container engine
+    ii  docker-ce                     5:20.10.21~3-0~debian-buster amd64        Docker: the open-source application container engine
+    ii  docker-ce-cli                 5:20.10.21~3-0~debian-buster amd64        Docker CLI: the open-source application container engine
     ii  docutils-common               0.14+dfsg-4                  all          text processing system for reStructuredText - common data
     ii  dpkg                          1.19.8                       amd64        Debian package management system
     ii  dpkg-dev                      1.19.8                       all          Debian package development tools
