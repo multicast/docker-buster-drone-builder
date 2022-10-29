@@ -185,8 +185,8 @@ drone.io builder container.
     ii  libmpdec2:amd64               2.4.2-2                      amd64        library for decimal floating point arithmetic (runtime library)
     ii  libmpfr6:amd64                4.0.2-1                      amd64        multiple precision floating-point computation
     ii  libmpx2:amd64                 8.3.0-6                      amd64        Intel memory protection extensions (runtime)
-    ii  libncurses6:amd64             6.1+20181013-2+deb10u2       amd64        shared libraries for terminal handling
-    ii  libncursesw6:amd64            6.1+20181013-2+deb10u2       amd64        shared libraries for terminal handling (wide character support)
+    ii  libncurses6:amd64             6.1+20181013-2+deb10u3       amd64        shared libraries for terminal handling
+    ii  libncursesw6:amd64            6.1+20181013-2+deb10u3       amd64        shared libraries for terminal handling (wide character support)
     ii  libnetfilter-conntrack3:amd64 1.0.7-1                      amd64        Netfilter netlink-conntrack library
     ii  libnettle6:amd64              3.4.1-1+deb10u1              amd64        low level cryptographic library (symmetric and one-way cryptos)
     ii  libnewt0.52:amd64             0.52.20-8                    amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
@@ -247,7 +247,7 @@ drone.io builder container.
     ii  libtexlua53:amd64             2018.20181218.49446-1        amd64        TeX Live: Lua 5.3, modified for use with LuaTeX
     ii  libtexluajit2:amd64           2018.20181218.49446-1        amd64        TeX Live: LuaJIT, modified for use with LuaJITTeX
     ii  libtiff5:amd64                4.1.0+git191117-2~deb10u4    amd64        Tag Image File Format (TIFF) library
-    ii  libtinfo6:amd64               6.1+20181013-2+deb10u2       amd64        shared low-level terminfo library for terminal handling
+    ii  libtinfo6:amd64               6.1+20181013-2+deb10u3       amd64        shared low-level terminfo library for terminal handling
     ii  libtsan0:amd64                8.3.0-6                      amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
     ii  libubsan1:amd64               8.3.0-6                      amd64        UBSan -- undefined behaviour sanitizer (runtime)
     ii  libudev1:amd64                241-7~deb10u8                amd64        libudev shared library
@@ -283,8 +283,8 @@ drone.io builder container.
     ii  mawk                          1.3.3-17+b3                  amd64        a pattern scanning and text processing language
     ii  mime-support                  3.62                         all          MIME files 'mime.types' & 'mailcap', and support programs
     ii  mount                         2.33.1-0.1                   amd64        tools for mounting and manipulating filesystems
-    ii  ncurses-base                  6.1+20181013-2+deb10u2       all          basic terminal type definitions
-    ii  ncurses-bin                   6.1+20181013-2+deb10u2       amd64        terminal-related programs and man pages
+    ii  ncurses-base                  6.1+20181013-2+deb10u3       all          basic terminal type definitions
+    ii  ncurses-bin                   6.1+20181013-2+deb10u3       amd64        terminal-related programs and man pages
     ii  net-tools                     1.60+git20180626.aebd88e-1   amd64        NET-3 networking toolkit
     ii  openssh-client                1:7.9p1-10+deb10u2           amd64        secure shell (SSH) client, for secure access to remote machines
     ii  openssl                       1.1.1n-0+deb10u3             amd64        Secure Sockets Layer toolkit - cryptographic utility
