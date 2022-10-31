@@ -40,7 +40,7 @@ drone.io builder container.
     ii  di                            4.47-1                       amd64        advanced df like disk information utility
     ii  diffutils                     1:3.7-3                      amd64        File comparison utilities
     ii  dirmngr                       2.2.12-1+deb10u2             amd64        GNU privacy guard - network certificate management service
-    ii  distro-info-data              0.41+deb10u5                 all          information about the distributions' releases (data files)
+    ii  distro-info-data              0.41+deb10u6                 all          information about the distributions' releases (data files)
     ii  dmsetup                       2:1.02.155-3                 amd64        Linux Kernel Device Mapper userspace library
     ii  docker-ce                     5:20.10.21~3-0~debian-buster amd64        Docker: the open-source application container engine
     ii  docker-ce-cli                 5:20.10.21~3-0~debian-buster amd64        Docker CLI: the open-source application container engine
