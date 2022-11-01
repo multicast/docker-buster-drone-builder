@@ -218,8 +218,8 @@ drone.io builder container.
     ii  libpython2.7-minimal:amd64    2.7.16-2+deb10u1             amd64        Minimal subset of the Python language (version 2.7)
     ii  libpython2.7-stdlib:amd64     2.7.16-2+deb10u1             amd64        Interactive high-level object-oriented language (standard library, version 2.7)
     ii  libpython3-stdlib:amd64       3.7.3-1                      amd64        interactive high-level object-oriented language (default python3 version)
-    ii  libpython3.7-minimal:amd64    3.7.3-2+deb10u3              amd64        Minimal subset of the Python language (version 3.7)
-    ii  libpython3.7-stdlib:amd64     3.7.3-2+deb10u3              amd64        Interactive high-level object-oriented language (standard library, version 3.7)
+    ii  libpython3.7-minimal:amd64    3.7.3-2+deb10u4              amd64        Minimal subset of the Python language (version 3.7)
+    ii  libpython3.7-stdlib:amd64     3.7.3-2+deb10u4              amd64        Interactive high-level object-oriented language (standard library, version 3.7)
     ii  libquadmath0:amd64            8.3.0-6                      amd64        GCC Quad-Precision Math Library
     ii  libreadline7:amd64            7.0-5                        amd64        GNU readline and history libraries, run-time libraries
     ii  librtmp1:amd64                2.4+20151223.gitfa8646d.1-2  amd64        toolkit for RTMP streams (shared library)
@@ -330,8 +330,8 @@ drone.io builder container.
     ii  python3-sphinx-rtd-theme      0.4.3+dfsg-1                 all          sphinx theme from readthedocs.org (Python 3)
     ii  python3-tz                    2019.1-1                     all          Python3 version of the Olson timezone database
     ii  python3-urllib3               1.24.1-1                     all          HTTP library with thread-safe connection pooling for Python3
-    ii  python3.7                     3.7.3-2+deb10u3              amd64        Interactive high-level object-oriented language (version 3.7)
-    ii  python3.7-minimal             3.7.3-2+deb10u3              amd64        Minimal subset of the Python language (version 3.7)
+    ii  python3.7                     3.7.3-2+deb10u4              amd64        Interactive high-level object-oriented language (version 3.7)
+    ii  python3.7-minimal             3.7.3-2+deb10u4              amd64        Minimal subset of the Python language (version 3.7)
     ii  readline-common               7.0-5                        all          GNU readline and history libraries, common files
     ii  sed                           4.7-1                        amd64        GNU stream editor for filtering/transforming text
     ii  sensible-utils                0.0.12                       all          Utilities for sensible alternative selection
