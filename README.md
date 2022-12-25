@@ -172,7 +172,7 @@ drone.io builder container.
     ii  libkpathsea6:amd64            2018.20181218.49446-1        amd64        TeX Live: path search library for TeX (runtime part)
     ii  libkrb5-3:amd64               1.17-3+deb10u5               amd64        MIT Kerberos runtime libraries
     ii  libkrb5support0:amd64         1.17-3+deb10u5               amd64        MIT Kerberos runtime libraries - Support library
-    ii  libksba8:amd64                1.3.5-2+deb10u1              amd64        X.509 and CMS support library
+    ii  libksba8:amd64                1.3.5-2+deb10u2              amd64        X.509 and CMS support library
     ii  liblcms2-2:amd64              2.9-3                        amd64        Little CMS 2 color management library
     ii  libldap-2.4-2:amd64           2.4.47+dfsg-3+deb10u7        amd64        OpenLDAP libraries
     ii  libldap-common                2.4.47+dfsg-3+deb10u7        all          OpenLDAP common files for libraries
