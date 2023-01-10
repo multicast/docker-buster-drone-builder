@@ -28,7 +28,7 @@ drone.io builder container.
     ii  build-essential               12.6                         amd64        Informational list of build-essential packages
     ii  bzip2                         1.0.6-9.2~deb10u2            amd64        high-quality block-sorting file compressor - utilities
     ii  ca-certificates               20200601~deb10u2             all          Common CA certificates
-    ii  containerd.io                 1.6.14-1                     amd64        An open and reliable container runtime
+    ii  containerd.io                 1.6.15-1                     amd64        An open and reliable container runtime
     ii  coreutils                     8.30-3                       amd64        GNU core utilities
     ii  cpp                           4:8.3.0-1                    amd64        GNU C preprocessor (cpp)
     ii  cpp-8                         8.3.0-6                      amd64        GNU C preprocessor
@@ -241,7 +241,7 @@ drone.io builder container.
     ii  libstdc++6:amd64              8.3.0-6                      amd64        GNU Standard C++ Library v3
     ii  libsynctex2:amd64             2018.20181218.49446-1        amd64        TeX Live: SyncTeX parser library
     ii  libsystemd0:amd64             241-7~deb10u8                amd64        systemd utility library
-    ii  libtasn1-6:amd64              4.13-3                       amd64        Manage ASN.1 structures (runtime)
+    ii  libtasn1-6:amd64              4.13-3+deb10u1               amd64        Manage ASN.1 structures (runtime)
     ii  libteckit0:amd64              2.5.8+ds2-5                  amd64        Encoding conversion library
     ii  libtexlua52:amd64             2018.20181218.49446-1        amd64        TeX Live: Lua 5.2, modified for use with LuaTeX
     ii  libtexlua53:amd64             2018.20181218.49446-1        amd64        TeX Live: Lua 5.3, modified for use with LuaTeX
