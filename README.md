@@ -338,7 +338,7 @@ drone.io builder container.
     ii  sgml-base                     1.29                         all          SGML infrastructure and SGML catalog file support
     ii  sphinx-common                 1.8.4-1                      all          documentation generator for Python projects - common data
     ii  sphinx-rtd-theme-common       0.4.3+dfsg-1                 all          sphinx theme from readthedocs.org (common files)
-    ii  sudo                          1.8.27-1+deb10u4             amd64        Provide limited super user privileges to specific users
+    ii  sudo                          1.8.27-1+deb10u5             amd64        Provide limited super user privileges to specific users
     ii  sysvinit-utils                2.93-8                       amd64        System-V-like utilities
     ii  t1utils                       1.41-3                       amd64        Collection of simple Type 1 font manipulation programs
     ii  tar                           1.30+dfsg-6                  amd64        GNU version of the tar archiving utility
