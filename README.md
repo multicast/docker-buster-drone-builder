@@ -356,7 +356,7 @@ drone.io builder container.
     ii  texlive-latex-recommended     2018.20190227-2             all          TeX Live: LaTeX recommended packages
     ii  texlive-pictures              2018.20190227-2             all          TeX Live: Graphics, pictures, diagrams
     ii  texlive-plain-generic         2018.20190227-2             all          TeX Live: Plain (La)TeX packages
-    ii  tzdata                        2021a-0+deb10u8             all          time zone and daylight-saving time data
+    ii  tzdata                        2021a-0+deb10u10            all          time zone and daylight-saving time data
     ii  ucf                           3.0038+nmu1                 all          Update Configuration File(s): preserve user changes to config files
     ii  unzip                         6.0-23+deb10u3              amd64        De-archiver for .zip files
     ii  util-linux                    2.33.1-0.1                  amd64        miscellaneous system utilities
