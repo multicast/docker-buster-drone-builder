@@ -62,7 +62,7 @@ drone.io builder container.
     ii  gcc                           4:8.3.0-1                   amd64        GNU C compiler
     ii  gcc-8                         8.3.0-6                     amd64        GNU C compiler
     ii  gcc-8-base:amd64              8.3.0-6                     amd64        GCC, the GNU Compiler Collection (base package)
-    ii  ghostscript                   9.27~dfsg-2+deb10u6         amd64        interpreter for the PostScript language and for PDF
+    ii  ghostscript                   9.27~dfsg-2+deb10u7         amd64        interpreter for the PostScript language and for PDF
     ii  git                           1:2.20.1-2+deb10u8          amd64        fast, scalable, distributed revision control system
     ii  git-man                       1:2.20.1-2+deb10u8          all          fast, scalable, distributed revision control system (manual pages)
     ii  gnupg                         2.2.12-1+deb10u2            all          GNU privacy guard - a free PGP replacement
@@ -143,8 +143,8 @@ drone.io builder container.
     ii  libgomp1:amd64                8.3.0-6                     amd64        GCC OpenMP (GOMP) support library
     ii  libgpg-error0:amd64           1.35-1                      amd64        GnuPG development runtime library
     ii  libgraphite2-3:amd64          1.3.13-7                    amd64        Font rendering engine for Complex Scripts -- library
-    ii  libgs9:amd64                  9.27~dfsg-2+deb10u6         amd64        interpreter for the PostScript language and for PDF - Library
-    ii  libgs9-common                 9.27~dfsg-2+deb10u6         all          interpreter for the PostScript language and for PDF - common files
+    ii  libgs9:amd64                  9.27~dfsg-2+deb10u7         amd64        interpreter for the PostScript language and for PDF - Library
+    ii  libgs9-common                 9.27~dfsg-2+deb10u7         all          interpreter for the PostScript language and for PDF - common files
     ii  libgssapi-krb5-2:amd64        1.17-3+deb10u5              amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
     ii  libharfbuzz-icu0:amd64        2.3.1-1                     amd64        OpenType text shaping engine ICU backend
     ii  libharfbuzz0b:amd64           2.3.1-1                     amd64        OpenType text shaping engine (shared library)
