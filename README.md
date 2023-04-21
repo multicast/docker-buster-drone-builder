@@ -32,7 +32,7 @@ drone.io builder container.
     ii  coreutils                     8.30-3                      amd64        GNU core utilities
     ii  cpp                           4:8.3.0-1                   amd64        GNU C preprocessor (cpp)
     ii  cpp-8                         8.3.0-6                     amd64        GNU C preprocessor
-    ii  curl                          7.64.0-4+deb10u5            amd64        command line tool for transferring data with URL syntax
+    ii  curl                          7.64.0-4+deb10u6            amd64        command line tool for transferring data with URL syntax
     ii  dash                          0.5.10.2-5                  amd64        POSIX-compliant shell
     ii  debconf                       1.5.71+deb10u1              all          Debian configuration management system
     ii  debian-archive-keyring        2019.1+deb10u1              all          GnuPG archive keys of the Debian archive
@@ -116,8 +116,8 @@ drone.io builder container.
     ii  libcom-err2:amd64             1.44.5-1+deb10u3            amd64        common error description library
     ii  libcups2:amd64                2.2.10-6+deb10u6            amd64        Common UNIX Printing System(tm) - Core library
     ii  libcupsimage2:amd64           2.2.10-6+deb10u6            amd64        Common UNIX Printing System(tm) - Raster image library
-    ii  libcurl3-gnutls:amd64         7.64.0-4+deb10u5            amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
-    ii  libcurl4:amd64                7.64.0-4+deb10u5            amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
+    ii  libcurl3-gnutls:amd64         7.64.0-4+deb10u6            amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
+    ii  libcurl4:amd64                7.64.0-4+deb10u6            amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
     ii  libdb5.3:amd64                5.3.28+dfsg1-0.5            amd64        Berkeley v5.3 Database Libraries [runtime]
     ii  libdbus-1-3:amd64             1.12.24-0+deb10u1           amd64        simple interprocess messaging system (library)
     ii  libdebconfclient0:amd64       0.249                       amd64        Debian Configuration Management System (C-implementation library)
