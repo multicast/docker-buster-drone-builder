@@ -40,7 +40,7 @@ drone.io builder container.
     ii  di                            4.47-1                      amd64        advanced df like disk information utility
     ii  diffutils                     1:3.7-3                     amd64        File comparison utilities
     ii  dirmngr                       2.2.12-1+deb10u2            amd64        GNU privacy guard - network certificate management service
-    ii  distro-info-data              0.41+deb10u6                all          information about the distributions' releases (data files)
+    ii  distro-info-data              0.41+deb10u7                all          information about the distributions' releases (data files)
     ii  dmsetup                       2:1.02.155-3                amd64        Linux Kernel Device Mapper userspace library
     ii  docker-ce                     5:23.0.5-1~debian.10~buster amd64        Docker: the open-source application container engine
     ii  docker-ce-cli                 5:23.0.5-1~debian.10~buster amd64        Docker CLI: the open-source application container engine
@@ -273,7 +273,7 @@ drone.io builder container.
     ii  libxxhash0:amd64              0.6.5-2                     amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u2        amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2+deb10u1         amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.269-1                  amd64        Linux support headers for userspace development
+    ii  linux-libc-dev:amd64          4.19.282-1                  amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                     all          reclaim disk space by removing unneeded localizations
     ii  locales                       2.28-10+deb10u2             all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                   amd64        system login tools
