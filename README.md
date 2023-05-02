@@ -95,9 +95,9 @@ drone.io builder container.
     ii  libattr1:amd64                1:2.4.48-4                  amd64        extended attribute handling - shared library
     ii  libaudit-common               1:2.8.4-3                   all          Dynamic library for security auditing - common files
     ii  libaudit1:amd64               1:2.8.4-3                   amd64        Dynamic library for security auditing
-    ii  libavahi-client3:amd64        0.7-4+deb10u1               amd64        Avahi client library
-    ii  libavahi-common-data:amd64    0.7-4+deb10u1               amd64        Avahi common data files
-    ii  libavahi-common3:amd64        0.7-4+deb10u1               amd64        Avahi common library
+    ii  libavahi-client3:amd64        0.7-4+deb10u2               amd64        Avahi client library
+    ii  libavahi-common-data:amd64    0.7-4+deb10u2               amd64        Avahi common data files
+    ii  libavahi-common3:amd64        0.7-4+deb10u2               amd64        Avahi common library
     ii  libbinutils:amd64             2.31.1-16                   amd64        GNU binary utilities (private shared library)
     ii  libblkid1:amd64               2.33.1-0.1                  amd64        block device ID library
     ii  libbrotli1:amd64              1.0.7-2+deb10u1             amd64        library implementing brotli encoder and decoder (shared libraries)
@@ -356,7 +356,7 @@ drone.io builder container.
     ii  texlive-latex-recommended     2018.20190227-2             all          TeX Live: LaTeX recommended packages
     ii  texlive-pictures              2018.20190227-2             all          TeX Live: Graphics, pictures, diagrams
     ii  texlive-plain-generic         2018.20190227-2             all          TeX Live: Plain (La)TeX packages
-    ii  tzdata                        2021a-0+deb10u10            all          time zone and daylight-saving time data
+    ii  tzdata                        2021a-0+deb10u11            all          time zone and daylight-saving time data
     ii  ucf                           3.0038+nmu1                 all          Update Configuration File(s): preserve user changes to config files
     ii  unzip                         6.0-23+deb10u3              amd64        De-archiver for .zip files
     ii  util-linux                    2.33.1-0.1                  amd64        miscellaneous system utilities
