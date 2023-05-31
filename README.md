@@ -169,7 +169,7 @@ drone.io builder container.
     ii  libjs-underscore              1.9.1~dfsg-1+deb10u1          all          JavaScript's functional programming helper library
     ii  libk5crypto3:amd64            1.17-3+deb10u5                amd64        MIT Kerberos runtime libraries - Crypto Library
     ii  libkeyutils1:amd64            1.6-6                         amd64        Linux Key Management Utilities (library)
-    ii  libkpathsea6:amd64            2018.20181218.49446-1+deb10u1 amd64        TeX Live: path search library for TeX (runtime part)
+    ii  libkpathsea6:amd64            2018.20181218.49446-1+deb10u2 amd64        TeX Live: path search library for TeX (runtime part)
     ii  libkrb5-3:amd64               1.17-3+deb10u5                amd64        MIT Kerberos runtime libraries
     ii  libkrb5support0:amd64         1.17-3+deb10u5                amd64        MIT Kerberos runtime libraries - Support library
     ii  libksba8:amd64                1.3.5-2+deb10u2               amd64        X.509 and CMS support library
@@ -212,7 +212,7 @@ drone.io builder container.
     ii  libpotrace0:amd64             1.15-1                        amd64        library for tracing bitmaps
     ii  libprocps7:amd64              2:3.3.15-2                    amd64        library for accessing process information from /proc
     ii  libpsl5:amd64                 0.20.2-2                      amd64        Library for Public Suffix List (shared libraries)
-    ii  libptexenc1:amd64             2018.20181218.49446-1+deb10u1 amd64        TeX Live: pTeX encoding library
+    ii  libptexenc1:amd64             2018.20181218.49446-1+deb10u2 amd64        TeX Live: pTeX encoding library
     ii  libpython-stdlib:amd64        2.7.16-1                      amd64        interactive high-level object-oriented language (Python2)
     ii  libpython2-stdlib:amd64       2.7.16-1                      amd64        interactive high-level object-oriented language (Python2)
     ii  libpython2.7-minimal:amd64    2.7.16-2+deb10u2              amd64        Minimal subset of the Python language (version 2.7)
@@ -239,13 +239,13 @@ drone.io builder container.
     ii  libssl1.1:amd64               1.1.1n-0+deb10u4              amd64        Secure Sockets Layer toolkit - shared libraries
     ii  libstdc++-8-dev:amd64         8.3.0-6                       amd64        GNU Standard C++ Library v3 (development files)
     ii  libstdc++6:amd64              8.3.0-6                       amd64        GNU Standard C++ Library v3
-    ii  libsynctex2:amd64             2018.20181218.49446-1+deb10u1 amd64        TeX Live: SyncTeX parser library
+    ii  libsynctex2:amd64             2018.20181218.49446-1+deb10u2 amd64        TeX Live: SyncTeX parser library
     ii  libsystemd0:amd64             241-7~deb10u9                 amd64        systemd utility library
     ii  libtasn1-6:amd64              4.13-3+deb10u1                amd64        Manage ASN.1 structures (runtime)
     ii  libteckit0:amd64              2.5.8+ds2-5                   amd64        Encoding conversion library
-    ii  libtexlua52:amd64             2018.20181218.49446-1+deb10u1 amd64        TeX Live: Lua 5.2, modified for use with LuaTeX
-    ii  libtexlua53:amd64             2018.20181218.49446-1+deb10u1 amd64        TeX Live: Lua 5.3, modified for use with LuaTeX
-    ii  libtexluajit2:amd64           2018.20181218.49446-1+deb10u1 amd64        TeX Live: LuaJIT, modified for use with LuaJITTeX
+    ii  libtexlua52:amd64             2018.20181218.49446-1+deb10u2 amd64        TeX Live: Lua 5.2, modified for use with LuaTeX
+    ii  libtexlua53:amd64             2018.20181218.49446-1+deb10u2 amd64        TeX Live: Lua 5.3, modified for use with LuaTeX
+    ii  libtexluajit2:amd64           2018.20181218.49446-1+deb10u2 amd64        TeX Live: LuaJIT, modified for use with LuaJITTeX
     ii  libtiff5:amd64                4.1.0+git191117-2~deb10u7     amd64        Tag Image File Format (TIFF) library
     ii  libtinfo6:amd64               6.1+20181013-2+deb10u3        amd64        shared low-level terminfo library for terminal handling
     ii  libtsan0:amd64                8.3.0-6                       amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
@@ -253,7 +253,7 @@ drone.io builder container.
     ii  libudev1:amd64                241-7~deb10u9                 amd64        libudev shared library
     ii  libunistring2:amd64           0.9.10-1                      amd64        Unicode string library for C
     ii  libuuid1:amd64                2.33.1-0.1                    amd64        Universally Unique ID library
-    ii  libwebp6:amd64                0.6.1-2+deb10u1               amd64        Lossy compression of digital photographic images.
+    ii  libwebp6:amd64                0.6.1-2+deb10u2               amd64        Lossy compression of digital photographic images.
     ii  libwoff1:amd64                1.0.2-1                       amd64        library for converting fonts to WOFF 2.0
     ii  libx11-6:amd64                2:1.6.7-1+deb10u2             amd64        X11 client-side library
     ii  libx11-data                   2:1.6.7-1+deb10u2             all          X11 client-side library
@@ -345,7 +345,7 @@ drone.io builder container.
     ii  tex-common                    6.11                          all          common infrastructure for building and installing TeX
     ii  texlive                       2018.20190227-2               all          TeX Live: A decent selection of the TeX Live packages
     ii  texlive-base                  2018.20190227-2               all          TeX Live: Essential programs and files
-    ii  texlive-binaries              2018.20181218.49446-1+deb10u1 amd64        Binaries for TeX Live
+    ii  texlive-binaries              2018.20181218.49446-1+deb10u2 amd64        Binaries for TeX Live
     ii  texlive-font-utils            2018.20190227-2               all          TeX Live: Graphics and font utilities
     ii  texlive-fonts-extra           2018.20190227-2               all          TeX Live: Additional fonts
     ii  texlive-fonts-recommended     2018.20190227-2               all          TeX Live: Recommended fonts
