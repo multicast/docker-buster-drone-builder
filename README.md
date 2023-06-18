@@ -323,7 +323,7 @@ drone.io builder container.
     ii  python3-pkg-resources         40.8.0-1                      all          Package Discovery and Resource Access using pkg_resources
     ii  python3-pygments              2.3.1+dfsg-1+deb10u2          all          syntax highlighting package written in Python 3
     ii  python3-pyparsing             2.2.0+dfsg1-2                 all          alternative to creating and executing simple grammars - Python 3.x
-    ii  python3-requests              2.21.0-1                      all          elegant and simple HTTP library for Python3, built for human beings
+    ii  python3-requests              2.21.0-1+deb10u1              all          elegant and simple HTTP library for Python3, built for human beings
     ii  python3-roman                 2.0.0-3                       all          module for generating/analyzing Roman numerals for Python 3
     ii  python3-six                   1.12.0-1                      all          Python 2 and 3 compatibility library (Python 3 interface)
     ii  python3-sphinx                1.8.4-1                       all          documentation generator for Python projects (implemented in Python 3)
