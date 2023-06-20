@@ -266,7 +266,7 @@ drone.io builder container.
     ii  libxext6:amd64                2:1.3.3-1+b2                  amd64        X11 miscellaneous extension library
     ii  libxi6:amd64                  2:1.7.9-1                     amd64        X11 Input extension library
     ii  libxmu6:amd64                 2:1.1.2-2+b3                  amd64        X11 miscellaneous utility library
-    ii  libxpm4:amd64                 1:3.5.12-1                    amd64        X11 pixmap library
+    ii  libxpm4:amd64                 1:3.5.12-1+deb10u1            amd64        X11 pixmap library
     ii  libxrender1:amd64             1:0.9.10-1                    amd64        X Rendering Extension client library
     ii  libxt6:amd64                  1:1.1.5-1+b3                  amd64        X11 toolkit intrinsics library
     ii  libxtables12:amd64            1.8.2-4                       amd64        netfilter xtables library
