@@ -95,9 +95,9 @@ drone.io builder container.
     ii  libattr1:amd64                1:2.4.48-4                    amd64        extended attribute handling - shared library
     ii  libaudit-common               1:2.8.4-3                     all          Dynamic library for security auditing - common files
     ii  libaudit1:amd64               1:2.8.4-3                     amd64        Dynamic library for security auditing
-    ii  libavahi-client3:amd64        0.7-4+deb10u2                 amd64        Avahi client library
-    ii  libavahi-common-data:amd64    0.7-4+deb10u2                 amd64        Avahi common data files
-    ii  libavahi-common3:amd64        0.7-4+deb10u2                 amd64        Avahi common library
+    ii  libavahi-client3:amd64        0.7-4+deb10u3                 amd64        Avahi client library
+    ii  libavahi-common-data:amd64    0.7-4+deb10u3                 amd64        Avahi common data files
+    ii  libavahi-common3:amd64        0.7-4+deb10u3                 amd64        Avahi common library
     ii  libbinutils:amd64             2.31.1-16                     amd64        GNU binary utilities (private shared library)
     ii  libblkid1:amd64               2.33.1-0.1                    amd64        block device ID library
     ii  libbrotli1:amd64              1.0.7-2+deb10u1               amd64        library implementing brotli encoder and decoder (shared libraries)
