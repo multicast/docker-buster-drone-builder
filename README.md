@@ -41,9 +41,8 @@ drone.io builder container.
     ii  diffutils                     1:3.7-3                       amd64        File comparison utilities
     ii  dirmngr                       2.2.12-1+deb10u2              amd64        GNU privacy guard - network certificate management service
     ii  distro-info-data              0.41+deb10u8                  all          information about the distributions' releases (data files)
-    ii  dmsetup                       2:1.02.155-3                  amd64        Linux Kernel Device Mapper userspace library
-    ii  docker-ce                     5:24.0.7-1~debian.10~buster   amd64        Docker: the open-source application container engine
-    ii  docker-ce-cli                 5:24.0.7-1~debian.10~buster   amd64        Docker CLI: the open-source application container engine
+    ii  docker-ce                     5:25.0.0-1~debian.10~buster   amd64        Docker: the open-source application container engine
+    ii  docker-ce-cli                 5:25.0.0-1~debian.10~buster   amd64        Docker CLI: the open-source application container engine
     ii  docutils-common               0.14+dfsg-4                   all          text processing system for reStructuredText - common data
     ii  dpkg                          1.19.8                        amd64        Debian package management system
     ii  dpkg-dev                      1.19.8                        all          Debian package development tools
@@ -121,7 +120,6 @@ drone.io builder container.
     ii  libdb5.3:amd64                5.3.28+dfsg1-0.5              amd64        Berkeley v5.3 Database Libraries [runtime]
     ii  libdbus-1-3:amd64             1.12.28-0+deb10u1             amd64        simple interprocess messaging system (library)
     ii  libdebconfclient0:amd64       0.249                         amd64        Debian Configuration Management System (C-implementation library)
-    ii  libdevmapper1.02.1:amd64      2:1.02.155-3                  amd64        Linux Kernel Device Mapper userspace library
     ii  libdpkg-perl                  1.19.8                        all          Dpkg perl modules
     ii  libedit2:amd64                3.1-20181209-1                amd64        BSD editline and history libraries
     ii  libelf1:amd64                 0.176-1.1+deb10u1             amd64        library to read and write ELF files
