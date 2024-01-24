@@ -313,7 +313,7 @@ drone.io builder container.
     ii  python3-docutils              0.14+dfsg-4                   all          text processing system for reStructuredText (implemented in Python 3)
     ii  python3-idna                  2.6-1                         all          Python IDNA2008 (RFC 5891) handling (Python 3)
     ii  python3-imagesize             1.0.0-1                       all          Python 3 module for getting image size from png/jpeg/jpeg2000/gif file
-    ii  python3-jinja2                2.10-2                        all          small but fast and easy to use stand-alone template engine
+    ii  python3-jinja2                2.10-2+deb10u1                all          small but fast and easy to use stand-alone template engine
     ii  python3-lib2to3               3.7.3-1                       all          Interactive high-level object-oriented language (2to3, version 3.6)
     ii  python3-markupsafe            1.1.0-1                       amd64        HTML/XHTML/XML string library for Python 3
     ii  python3-minimal               3.7.3-1                       amd64        minimal subset of the Python language (default python3 version)
