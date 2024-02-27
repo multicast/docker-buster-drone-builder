@@ -137,7 +137,7 @@ drone.io builder container.
     ii  libgdbm6:amd64                1.18.1-4                      amd64        GNU dbm database routines (runtime version) 
     ii  libglib2.0-0:amd64            2.58.3-2+deb10u5              amd64        GLib library of C routines
     ii  libgmp10:amd64                2:6.1.2+dfsg-4+deb10u1        amd64        Multiprecision arithmetic library
-    ii  libgnutls30:amd64             3.6.7-4+deb10u11              amd64        GNU TLS library - main runtime library
+    ii  libgnutls30:amd64             3.6.7-4+deb10u12              amd64        GNU TLS library - main runtime library
     ii  libgomp1:amd64                8.3.0-6                       amd64        GCC OpenMP (GOMP) support library
     ii  libgpg-error0:amd64           1.35-1                        amd64        GnuPG development runtime library
     ii  libgraphite2-3:amd64          1.3.13-7                      amd64        Font rendering engine for Complex Scripts -- library
