@@ -339,7 +339,7 @@ drone.io builder container.
     ii  sudo                          1.8.27-1+deb10u6              amd64        Provide limited super user privileges to specific users
     ii  sysvinit-utils                2.93-8                        amd64        System-V-like utilities
     ii  t1utils                       1.41-3                        amd64        Collection of simple Type 1 font manipulation programs
-    ii  tar                           1.30+dfsg-6                   amd64        GNU version of the tar archiving utility
+    ii  tar                           1.30+dfsg-6+deb10u1           amd64        GNU version of the tar archiving utility
     ii  tex-common                    6.11                          all          common infrastructure for building and installing TeX
     ii  texlive                       2018.20190227-2               all          TeX Live: A decent selection of the TeX Live packages
     ii  texlive-base                  2018.20190227-2               all          TeX Live: Essential programs and files
