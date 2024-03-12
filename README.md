@@ -244,7 +244,7 @@ drone.io builder container.
     ii  libtexlua52:amd64             2018.20181218.49446-1+deb10u2 amd64        TeX Live: Lua 5.2, modified for use with LuaTeX
     ii  libtexlua53:amd64             2018.20181218.49446-1+deb10u2 amd64        TeX Live: Lua 5.3, modified for use with LuaTeX
     ii  libtexluajit2:amd64           2018.20181218.49446-1+deb10u2 amd64        TeX Live: LuaJIT, modified for use with LuaJITTeX
-    ii  libtiff5:amd64                4.1.0+git191117-2~deb10u8     amd64        Tag Image File Format (TIFF) library
+    ii  libtiff5:amd64                4.1.0+git191117-2~deb10u9     amd64        Tag Image File Format (TIFF) library
     ii  libtinfo6:amd64               6.1+20181013-2+deb10u5        amd64        shared low-level terminfo library for terminal handling
     ii  libtsan0:amd64                8.3.0-6                       amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
     ii  libubsan1:amd64               8.3.0-6                       amd64        UBSan -- undefined behaviour sanitizer (runtime)
