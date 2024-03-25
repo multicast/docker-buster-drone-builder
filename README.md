@@ -213,8 +213,8 @@ drone.io builder container.
     ii  libptexenc1:amd64             2018.20181218.49446-1+deb10u2 amd64        TeX Live: pTeX encoding library
     ii  libpython-stdlib:amd64        2.7.16-1                      amd64        interactive high-level object-oriented language (Python2)
     ii  libpython2-stdlib:amd64       2.7.16-1                      amd64        interactive high-level object-oriented language (Python2)
-    ii  libpython2.7-minimal:amd64    2.7.16-2+deb10u3              amd64        Minimal subset of the Python language (version 2.7)
-    ii  libpython2.7-stdlib:amd64     2.7.16-2+deb10u3              amd64        Interactive high-level object-oriented language (standard library, version 2.7)
+    ii  libpython2.7-minimal:amd64    2.7.16-2+deb10u4              amd64        Minimal subset of the Python language (version 2.7)
+    ii  libpython2.7-stdlib:amd64     2.7.16-2+deb10u4              amd64        Interactive high-level object-oriented language (standard library, version 2.7)
     ii  libpython3-stdlib:amd64       3.7.3-1                       amd64        interactive high-level object-oriented language (default python3 version)
     ii  libpython3.7-minimal:amd64    3.7.3-2+deb10u7               amd64        Minimal subset of the Python language (version 3.7)
     ii  libpython3.7-stdlib:amd64     3.7.3-2+deb10u7               amd64        Interactive high-level object-oriented language (standard library, version 3.7)
@@ -302,8 +302,8 @@ drone.io builder container.
     ii  python-minimal                2.7.16-1                      amd64        minimal subset of the Python2 language
     ii  python2                       2.7.16-1                      amd64        interactive high-level object-oriented language (Python2 version)
     ii  python2-minimal               2.7.16-1                      amd64        minimal subset of the Python2 language
-    ii  python2.7                     2.7.16-2+deb10u3              amd64        Interactive high-level object-oriented language (version 2.7)
-    ii  python2.7-minimal             2.7.16-2+deb10u3              amd64        Minimal subset of the Python language (version 2.7)
+    ii  python2.7                     2.7.16-2+deb10u4              amd64        Interactive high-level object-oriented language (version 2.7)
+    ii  python2.7-minimal             2.7.16-2+deb10u4              amd64        Minimal subset of the Python language (version 2.7)
     ii  python3                       3.7.3-1                       amd64        interactive high-level object-oriented language (default python3 version)
     ii  python3-alabaster             0.7.8-1                       all          Configurable sidebar-enabled Sphinx theme (Python 3)
     ii  python3-babel                 2.6.0+dfsg.1-1+deb10u1        all          tools for internationalizing Python applications - Python 3.x
