@@ -24,7 +24,7 @@ drone.io builder container.
     ii  binutils                      2.31.1-16                     amd64        GNU assembler, linker and binary utilities
     ii  binutils-common:amd64         2.31.1-16                     amd64        Common files for the GNU assembler, linker and binary utilities
     ii  binutils-x86-64-linux-gnu     2.31.1-16                     amd64        GNU binary utilities, for x86-64-linux-gnu target
-    ii  bsdutils                      1:2.33.1-0.1                  amd64        basic utilities from 4.4BSD-Lite
+    ii  bsdutils                      1:2.33.1-0.1+deb10u1          amd64        basic utilities from 4.4BSD-Lite
     ii  build-essential               12.6                          amd64        Informational list of build-essential packages
     ii  bzip2                         1.0.6-9.2~deb10u2             amd64        high-quality block-sorting file compressor - utilities
     ii  ca-certificates               20200601~deb10u2              all          Common CA certificates
@@ -48,7 +48,7 @@ drone.io builder container.
     ii  dpkg-dev                      1.19.8                        all          Debian package development tools
     ii  e2fsprogs                     1.44.5-1+deb10u3              amd64        ext2/ext3/ext4 file system utilities
     ii  etckeeper                     1.18.10-1                     all          store /etc in git, mercurial, bzr or darcs
-    ii  fdisk                         2.33.1-0.1                    amd64        collection of partitioning utilities
+    ii  fdisk                         2.33.1-0.1+deb10u1            amd64        collection of partitioning utilities
     ii  findutils                     4.6.0+git+20190209-2          amd64        utilities for finding files--find, xargs
     ii  fontconfig-config             2.13.1-2                      all          generic font configuration library - configuration
     ii  fonts-dejavu-core             2.37-1                        all          Vera font family derivate with additional characters
@@ -98,7 +98,7 @@ drone.io builder container.
     ii  libavahi-common-data:amd64    0.7-4+deb10u3                 amd64        Avahi common data files
     ii  libavahi-common3:amd64        0.7-4+deb10u3                 amd64        Avahi common library
     ii  libbinutils:amd64             2.31.1-16                     amd64        GNU binary utilities (private shared library)
-    ii  libblkid1:amd64               2.33.1-0.1                    amd64        block device ID library
+    ii  libblkid1:amd64               2.33.1-0.1+deb10u1            amd64        block device ID library
     ii  libbrotli1:amd64              1.0.7-2+deb10u1               amd64        library implementing brotli encoder and decoder (shared libraries)
     ii  libbsd0:amd64                 0.9.1-2+deb10u1               amd64        utility functions from BSD systems - shared library
     ii  libbz2-1.0:amd64              1.0.6-9.2~deb10u2             amd64        high-quality block-sorting file compressor library - runtime
@@ -126,7 +126,7 @@ drone.io builder container.
     ii  liberror-perl                 0.17027-2                     all          Perl module for error/exception handling in an OO-ish way
     ii  libexpat1:amd64               2.2.6-2+deb10u7               amd64        XML parsing C library - runtime library
     ii  libext2fs2:amd64              1.44.5-1+deb10u3              amd64        ext2/ext3/ext4 file system libraries
-    ii  libfdisk1:amd64               2.33.1-0.1                    amd64        fdisk partitioning library
+    ii  libfdisk1:amd64               2.33.1-0.1+deb10u1            amd64        fdisk partitioning library
     ii  libffi6:amd64                 3.2.1-9                       amd64        Foreign Function Interface library runtime
     ii  libfontconfig1:amd64          2.13.1-2                      amd64        generic font configuration library - runtime
     ii  libfreetype6:amd64            2.9.1-3+deb10u3               amd64        FreeType 2 font engine, shared library files
@@ -178,7 +178,7 @@ drone.io builder container.
     ii  liblz4-1:amd64                1.8.3-1+deb10u1               amd64        Fast LZ compression algorithm library - runtime
     ii  liblzma5:amd64                5.2.4-1+deb10u1               amd64        XZ-format compression library
     ii  libmnl0:amd64                 1.0.4-2                       amd64        minimalistic Netlink communication library
-    ii  libmount1:amd64               2.33.1-0.1                    amd64        device mounting library
+    ii  libmount1:amd64               2.33.1-0.1+deb10u1            amd64        device mounting library
     ii  libmpc3:amd64                 1.1.0-1                       amd64        multiple precision complex floating-point library
     ii  libmpdec2:amd64               2.4.2-2                       amd64        library for decimal floating point arithmetic (runtime library)
     ii  libmpfr6:amd64                4.0.2-1                       amd64        multiple precision floating-point computation
@@ -230,7 +230,7 @@ drone.io builder container.
     ii  libsepol1:amd64               2.8-1                         amd64        SELinux library for manipulating binary security policies
     ii  libslang2:amd64               2.3.2-2                       amd64        S-Lang programming library - runtime version
     ii  libsm6:amd64                  2:1.2.3-1                     amd64        X11 Session Management library
-    ii  libsmartcols1:amd64           2.33.1-0.1                    amd64        smart column output alignment library
+    ii  libsmartcols1:amd64           2.33.1-0.1+deb10u1            amd64        smart column output alignment library
     ii  libsqlite3-0:amd64            3.27.2-3+deb10u2              amd64        SQLite 3 shared library
     ii  libss2:amd64                  1.44.5-1+deb10u3              amd64        command-line interface parsing library
     ii  libssh2-1:amd64               1.8.0-2.1+deb10u1             amd64        SSH2 client-side library
@@ -250,7 +250,7 @@ drone.io builder container.
     ii  libubsan1:amd64               8.3.0-6                       amd64        UBSan -- undefined behaviour sanitizer (runtime)
     ii  libudev1:amd64                241-7~deb10u10                amd64        libudev shared library
     ii  libunistring2:amd64           0.9.10-1                      amd64        Unicode string library for C
-    ii  libuuid1:amd64                2.33.1-0.1                    amd64        Universally Unique ID library
+    ii  libuuid1:amd64                2.33.1-0.1+deb10u1            amd64        Universally Unique ID library
     ii  libwebp6:amd64                0.6.1-2+deb10u3               amd64        Lossy compression of digital photographic images.
     ii  libwoff1:amd64                1.0.2-1                       amd64        library for converting fonts to WOFF 2.0
     ii  libx11-6:amd64                2:1.6.7-1+deb10u4             amd64        X11 client-side library
@@ -280,7 +280,7 @@ drone.io builder container.
     ii  make                          4.2.1-1.2                     amd64        utility for directing compilation
     ii  mawk                          1.3.3-17+b3                   amd64        a pattern scanning and text processing language
     ii  mime-support                  3.62                          all          MIME files 'mime.types' & 'mailcap', and support programs
-    ii  mount                         2.33.1-0.1                    amd64        tools for mounting and manipulating filesystems
+    ii  mount                         2.33.1-0.1+deb10u1            amd64        tools for mounting and manipulating filesystems
     ii  ncurses-base                  6.1+20181013-2+deb10u5        all          basic terminal type definitions
     ii  ncurses-bin                   6.1+20181013-2+deb10u5        amd64        terminal-related programs and man pages
     ii  net-tools                     1.60+git20180626.aebd88e-1    amd64        NET-3 networking toolkit
@@ -357,7 +357,7 @@ drone.io builder container.
     ii  tzdata                        2021a-0+deb10u12              all          time zone and daylight-saving time data
     ii  ucf                           3.0038+nmu1                   all          Update Configuration File(s): preserve user changes to config files
     ii  unzip                         6.0-23+deb10u3                amd64        De-archiver for .zip files
-    ii  util-linux                    2.33.1-0.1                    amd64        miscellaneous system utilities
+    ii  util-linux                    2.33.1-0.1+deb10u1            amd64        miscellaneous system utilities
     ii  wget                          1.20.1-1.1                    amd64        retrieves files from the web
     ii  whiptail                      0.52.20-8                     amd64        Displays user-friendly dialog boxes from shell scripts
     ii  x11-common                    1:7.7+19                      all          X Window System (X.Org) infrastructure
