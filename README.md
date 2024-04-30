@@ -41,8 +41,8 @@ drone.io builder container.
     ii  diffutils                     1:3.7-3                       amd64        File comparison utilities
     ii  dirmngr                       2.2.12-1+deb10u2              amd64        GNU privacy guard - network certificate management service
     ii  distro-info-data              0.41+deb10u8                  all          information about the distributions' releases (data files)
-    ii  docker-ce                     5:26.1.0-1~debian.10~buster   amd64        Docker: the open-source application container engine
-    ii  docker-ce-cli                 5:26.1.0-1~debian.10~buster   amd64        Docker CLI: the open-source application container engine
+    ii  docker-ce                     5:26.1.1-1~debian.10~buster   amd64        Docker: the open-source application container engine
+    ii  docker-ce-cli                 5:26.1.1-1~debian.10~buster   amd64        Docker CLI: the open-source application container engine
     ii  docutils-common               0.14+dfsg-4                   all          text processing system for reStructuredText - common data
     ii  dpkg                          1.19.8                        amd64        Debian package management system
     ii  dpkg-dev                      1.19.8                        all          Debian package development tools
@@ -190,7 +190,7 @@ drone.io builder container.
     ii  libnewt0.52:amd64             0.52.20-8                     amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
     ii  libnfnetlink0:amd64           1.0.1-3+b1                    amd64        Netfilter netlink library
     ii  libnftnl11:amd64              1.1.2-2                       amd64        Netfilter nftables userspace API library
-    ii  libnghttp2-14:amd64           1.36.0-2+deb10u2              amd64        library implementing HTTP/2 protocol (shared library)
+    ii  libnghttp2-14:amd64           1.36.0-2+deb10u3              amd64        library implementing HTTP/2 protocol (shared library)
     ii  libnpth0:amd64                1.6-1                         amd64        replacement for GNU Pth using system threads
     ii  libonig5:amd64                6.9.1-1                       amd64        regular expressions library
     ii  libopenjp2-7:amd64            2.3.0-2+deb10u2               amd64        JPEG 2000 image compression/decompression library
