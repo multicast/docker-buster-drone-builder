@@ -84,7 +84,7 @@ drone.io builder container.
     ii  joe                           4.6-1+b1                      amd64        user friendly full screen text editor
     ii  jq                            1.5+dfsg-2+b1                 amd64        lightweight and flexible command-line JSON processor
     ii  latexmk                       1:4.61-0.1                    all          Perl script for running LaTeX the correct number of times
-    ii  less                          487-0.1+b1                    amd64        pager program similar to more
+    ii  less                          487-0.1+deb10u1               amd64        pager program similar to more
     ii  libacl1:amd64                 2.2.53-4                      amd64        access control list - shared library
     ii  libapt-inst2.0:amd64          1.8.2.3                       amd64        deb package format runtime library
     ii  libapt-pkg5.0:amd64           1.8.2.3                       amd64        package management runtime library
