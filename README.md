@@ -113,8 +113,8 @@ drone.io builder container.
     ii  libcap2-bin                   1:2.25-2                      amd64        POSIX 1003.1e capabilities (utilities)
     ii  libcc1-0:amd64                8.3.0-6                       amd64        GCC cc1 plugin for GDB
     ii  libcom-err2:amd64             1.44.5-1+deb10u3              amd64        common error description library
-    ii  libcups2:amd64                2.2.10-6+deb10u9              amd64        Common UNIX Printing System(tm) - Core library
-    ii  libcupsimage2:amd64           2.2.10-6+deb10u9              amd64        Common UNIX Printing System(tm) - Raster image library
+    ii  libcups2:amd64                2.2.10-6+deb10u10             amd64        Common UNIX Printing System(tm) - Core library
+    ii  libcupsimage2:amd64           2.2.10-6+deb10u10             amd64        Common UNIX Printing System(tm) - Raster image library
     ii  libcurl3-gnutls:amd64         7.64.0-4+deb10u9              amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
     ii  libcurl4:amd64                7.64.0-4+deb10u9              amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
     ii  libdb5.3:amd64                5.3.28+dfsg1-0.5              amd64        Berkeley v5.3 Database Libraries [runtime]
