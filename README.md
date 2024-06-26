@@ -62,8 +62,8 @@ drone.io builder container.
     ii  gcc-8                         8.3.0-6                       amd64        GNU C compiler
     ii  gcc-8-base:amd64              8.3.0-6                       amd64        GCC, the GNU Compiler Collection (base package)
     ii  ghostscript                   9.27~dfsg-2+deb10u9           amd64        interpreter for the PostScript language and for PDF
-    ii  git                           1:2.20.1-2+deb10u8            amd64        fast, scalable, distributed revision control system
-    ii  git-man                       1:2.20.1-2+deb10u8            all          fast, scalable, distributed revision control system (manual pages)
+    ii  git                           1:2.20.1-2+deb10u9            amd64        fast, scalable, distributed revision control system
+    ii  git-man                       1:2.20.1-2+deb10u9            all          fast, scalable, distributed revision control system (manual pages)
     ii  gnupg                         2.2.12-1+deb10u2              all          GNU privacy guard - a free PGP replacement
     ii  gnupg-l10n                    2.2.12-1+deb10u2              all          GNU privacy guard - localization files
     ii  gnupg-utils                   2.2.12-1+deb10u2              amd64        GNU privacy guard - utility programs
@@ -271,7 +271,7 @@ drone.io builder container.
     ii  libxxhash0:amd64              0.6.5-2                       amd64        shared library for xxhash
     ii  libzstd1:amd64                1.3.8+dfsg-3+deb10u2          amd64        fast lossless compression algorithm
     ii  libzzip-0-13:amd64            0.13.62-3.2+deb10u1           amd64        library providing read access on ZIP-archives - library
-    ii  linux-libc-dev:amd64          4.19.304-1                    amd64        Linux support headers for userspace development
+    ii  linux-libc-dev:amd64          4.19.316-1                    amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                       all          reclaim disk space by removing unneeded localizations
     ii  locales                       2.28-10+deb10u3               all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                     amd64        system login tools
