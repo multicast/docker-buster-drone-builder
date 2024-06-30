@@ -102,11 +102,11 @@ drone.io builder container.
     ii  libbrotli1:amd64              1.0.7-2+deb10u1               amd64        library implementing brotli encoder and decoder (shared libraries)
     ii  libbsd0:amd64                 0.9.1-2+deb10u1               amd64        utility functions from BSD systems - shared library
     ii  libbz2-1.0:amd64              1.0.6-9.2~deb10u2             amd64        high-quality block-sorting file compressor library - runtime
-    ii  libc-bin                      2.28-10+deb10u3               amd64        GNU C Library: Binaries
-    ii  libc-dev-bin                  2.28-10+deb10u3               amd64        GNU C Library: Development binaries
-    ii  libc-l10n                     2.28-10+deb10u3               all          GNU C Library: localization files
-    ii  libc6:amd64                   2.28-10+deb10u3               amd64        GNU C Library: Shared libraries
-    ii  libc6-dev:amd64               2.28-10+deb10u3               amd64        GNU C Library: Development Libraries and Header Files
+    ii  libc-bin                      2.28-10+deb10u4               amd64        GNU C Library: Binaries
+    ii  libc-dev-bin                  2.28-10+deb10u4               amd64        GNU C Library: Development binaries
+    ii  libc-l10n                     2.28-10+deb10u4               all          GNU C Library: localization files
+    ii  libc6:amd64                   2.28-10+deb10u4               amd64        GNU C Library: Shared libraries
+    ii  libc6-dev:amd64               2.28-10+deb10u4               amd64        GNU C Library: Development Libraries and Header Files
     ii  libcairo2:amd64               1.16.0-4+deb10u1              amd64        Cairo 2D vector graphics library
     ii  libcap-ng0:amd64              0.7.9-2                       amd64        An alternate POSIX capabilities library
     ii  libcap2:amd64                 1:2.25-2                      amd64        POSIX 1003.1e capabilities (library)
@@ -273,7 +273,7 @@ drone.io builder container.
     ii  libzzip-0-13:amd64            0.13.62-3.2+deb10u1           amd64        library providing read access on ZIP-archives - library
     ii  linux-libc-dev:amd64          4.19.316-1                    amd64        Linux support headers for userspace development
     ii  localepurge                   0.7.3.5                       all          reclaim disk space by removing unneeded localizations
-    ii  locales                       2.28-10+deb10u3               all          GNU C Library: National Language (locale) data [support]
+    ii  locales                       2.28-10+deb10u4               all          GNU C Library: National Language (locale) data [support]
     ii  login                         1:4.5-1.1                     amd64        system login tools
     ii  lsb-base                      10.2019051400                 all          Linux Standard Base init script functionality
     ii  lsb-release                   10.2019051400                 all          Linux Standard Base version reporting utility
